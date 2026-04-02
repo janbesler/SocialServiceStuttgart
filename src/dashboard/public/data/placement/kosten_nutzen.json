@@ -1,0 +1,126 @@
+{
+  "szenarien": {
+    "baseline": {
+      "szenario": "baseline",
+      "n_neue_stellen": 0,
+      "n_bestand": 211,
+      "gesamtkosten_jahr_eur": 0.0,
+      "einmalkosten_eur": 0.0,
+      "erreichte_kinder_neu": 0.0,
+      "abgedeckter_bedarf": 16807.8,
+      "bedarf_gesamt": 86412.9,
+      "anteil_bedarf_abgedeckt_pct": 19.5,
+      "segmente_im_radius": 7559,
+      "segmente_gesamt": 10893
+    },
+    "n1_optimal": {
+      "szenario": "n1_optimal",
+      "n_neue_stellen": 1,
+      "n_bestand": 211,
+      "gesamtkosten_jahr_eur": 68000.0,
+      "einmalkosten_eur": 10000.0,
+      "erreichte_kinder_neu": 4091.0,
+      "abgedeckter_bedarf": 17652.6,
+      "bedarf_gesamt": 86412.9,
+      "anteil_bedarf_abgedeckt_pct": 20.4,
+      "segmente_im_radius": 7726,
+      "segmente_gesamt": 10893
+    },
+    "n3_optimal": {
+      "szenario": "n3_optimal",
+      "n_neue_stellen": 3,
+      "n_bestand": 211,
+      "gesamtkosten_jahr_eur": 204000.0,
+      "einmalkosten_eur": 30000.0,
+      "erreichte_kinder_neu": 10133.0,
+      "abgedeckter_bedarf": 18654.7,
+      "bedarf_gesamt": 86412.9,
+      "anteil_bedarf_abgedeckt_pct": 21.6,
+      "segmente_im_radius": 7883,
+      "segmente_gesamt": 10893
+    },
+    "n5_optimal": {
+      "szenario": "n5_optimal",
+      "n_neue_stellen": 5,
+      "n_bestand": 211,
+      "gesamtkosten_jahr_eur": 340000.0,
+      "einmalkosten_eur": 50000.0,
+      "erreichte_kinder_neu": 16774.0,
+      "abgedeckter_bedarf": 19842.8,
+      "bedarf_gesamt": 86412.9,
+      "anteil_bedarf_abgedeckt_pct": 23.0,
+      "segmente_im_radius": 8043,
+      "segmente_gesamt": 10893
+    },
+    "n10_optimal": {
+      "szenario": "n10_optimal",
+      "n_neue_stellen": 10,
+      "n_bestand": 211,
+      "gesamtkosten_jahr_eur": 680000.0,
+      "einmalkosten_eur": 100000.0,
+      "erreichte_kinder_neu": 30584.0,
+      "abgedeckter_bedarf": 22409.5,
+      "bedarf_gesamt": 86412.9,
+      "anteil_bedarf_abgedeckt_pct": 25.9,
+      "segmente_im_radius": 8314,
+      "segmente_gesamt": 10893
+    },
+    "budget_100k": {
+      "szenario": "budget_100k",
+      "n_neue_stellen": 1,
+      "n_bestand": 211,
+      "gesamtkosten_jahr_eur": 68000.0,
+      "einmalkosten_eur": 10000.0,
+      "erreichte_kinder_neu": 4091.0,
+      "abgedeckter_bedarf": 17652.6,
+      "bedarf_gesamt": 86412.9,
+      "anteil_bedarf_abgedeckt_pct": 20.4,
+      "segmente_im_radius": 7726,
+      "segmente_gesamt": 10893,
+      "budget_eur": 100000.0
+    },
+    "budget_300k": {
+      "szenario": "budget_300k",
+      "n_neue_stellen": 4,
+      "n_bestand": 211,
+      "gesamtkosten_jahr_eur": 272000.0,
+      "einmalkosten_eur": 40000.0,
+      "erreichte_kinder_neu": 12377.0,
+      "abgedeckter_bedarf": 19191.4,
+      "bedarf_gesamt": 86412.9,
+      "anteil_bedarf_abgedeckt_pct": 22.2,
+      "segmente_im_radius": 7995,
+      "segmente_gesamt": 10893,
+      "budget_eur": 300000.0
+    },
+    "budget_500k": {
+      "szenario": "budget_500k",
+      "n_neue_stellen": 7,
+      "n_bestand": 211,
+      "gesamtkosten_jahr_eur": 476000.0,
+      "einmalkosten_eur": 70000.0,
+      "erreichte_kinder_neu": 22976.0,
+      "abgedeckter_bedarf": 20961.2,
+      "bedarf_gesamt": 86412.9,
+      "anteil_bedarf_abgedeckt_pct": 24.3,
+      "segmente_im_radius": 8164,
+      "segmente_gesamt": 10893,
+      "budget_eur": 500000.0
+    }
+  },
+  "parameter": {
+    "radius_m": 800.0,
+    "walking_factor": 1.4,
+    "n_kandidaten": 584,
+    "n_bestand": 211,
+    "n_segmente": 10893,
+    "kosten_defaults": {
+      "personal_s11b_jahr": 60000.0,
+      "personal_s12_jahr": 65000.0,
+      "miete_oeffentlich_jahr": 3000.0,
+      "miete_privat_jahr": 12000.0,
+      "sachkosten_jahr": 5000.0,
+      "einmalkosten": 10000.0
+    }
+  }
+}

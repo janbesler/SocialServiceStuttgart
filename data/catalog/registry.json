@@ -1,0 +1,3795 @@
+[
+  {
+    "id": "kinderbetreuung-betreuungs-und-versorgungsquote-von-unter-3-bzw-3-bis-6-jahrigen",
+    "datei": "kinderbetreuung-betreuungs-und-versorgungsquote-von-unter-3-bzw.-3-bis-6-jahrigen.csv",
+    "titel": "Kinderbetreuung betreuungs und versorgungsquote von unter 3 bzw. 3 bis 6 jahrigen",
+    "thema": "bildung",
+    "dimensionen": [
+      "bildung",
+      "soziales"
+    ],
+    "index_relevant": true,
+    "raeumliche_ebene": "gesamtstadt",
+    "zeitliche_ebene": "jaehrlich",
+    "zeitraum": [
+      2010,
+      2023
+    ],
+    "spalten": {
+      "bezirk": null,
+      "jahr": "Jahr",
+      "werte": []
+    },
+    "einheit": "Prozent",
+    "qualitaet": {
+      "luecken_prozent": 16.7,
+      "zeilen": 16,
+      "bemerkungen": ""
+    }
+  },
+  {
+    "id": "oeffentliche-allgemeinbilde-schulen-klassen-schueler-nach-stadtbezirken-seit-201",
+    "datei": "oeffentliche_allgemeinbilde_schulen_klassen_schueler_nach_stadtbezirken_seit_2013.csv",
+    "titel": "Oeffentliche allgemeinbilde schulen klassen schueler nach stadtbezirken seit 2013",
+    "thema": "bildung",
+    "dimensionen": [
+      "bildung"
+    ],
+    "index_relevant": true,
+    "raeumliche_ebene": "stadtbezirk",
+    "zeitliche_ebene": "unbekannt",
+    "zeitraum": [
+      null,
+      null
+    ],
+    "spalten": {
+      "bezirk": "Stadtbezirk",
+      "jahr": "Jahr",
+      "werte": [
+        "Anzahl Grund- und Werkrealschulen",
+        "Klassen Grund- und Werkrealschulen",
+        "Schüler Grund- und Werkrealschulen",
+        "Anzahl Realschulen",
+        "Klassen Realschulen",
+        "Schüler Realschulen",
+        "Anzahl Gymnasien",
+        "Klassen Gymnasien",
+        "Schüler Gymnasien",
+        "Anzahl Gemeinschaftsschulen\n(Sekundarstufe I) 2",
+        "Klassen Gemeinschaftsschulen",
+        "Schüler Gemeinschaftsschulen"
+      ]
+    },
+    "einheit": "Anzahl",
+    "qualitaet": {
+      "luecken_prozent": 0.0,
+      "zeilen": 230,
+      "bemerkungen": ""
+    }
+  },
+  {
+    "id": "schueler-an-oeffentlichen-allgemeinbildenden-schulen-seit-1993",
+    "datei": "schueler_an_oeffentlichen_allgemeinbildenden_schulen_seit_1993.csv",
+    "titel": "Schueler an oeffentlichen allgemeinbildenden schulen seit 1993",
+    "thema": "bildung",
+    "dimensionen": [
+      "bildung",
+      "demografie"
+    ],
+    "index_relevant": true,
+    "raeumliche_ebene": "gesamtstadt",
+    "zeitliche_ebene": "unbekannt",
+    "zeitraum": [
+      null,
+      null
+    ],
+    "spalten": {
+      "bezirk": null,
+      "jahr": "Jahr",
+      "werte": [
+        "Alter",
+        "Geburtsjahr",
+        "Schüler an allgemeinbildenden Schulen\ninsgesamt",
+        "davon an Grund- und Werkrealschulen",
+        "davon an SBBZ",
+        "davon an Real-\nschulen",
+        "davon an Gymnasien",
+        "davon an Gemeinschaftsschulen Sekundarstufe I"
+      ]
+    },
+    "einheit": "Anzahl",
+    "qualitaet": {
+      "luecken_prozent": 0.0,
+      "zeilen": 170,
+      "bemerkungen": ""
+    }
+  },
+  {
+    "id": "schueler-an-oeffentlichen-und-privaten-schulen-in-stuttgart-seit-1950",
+    "datei": "schueler_an_oeffentlichen_und_privaten_schulen_in_stuttgart_seit_1950.csv",
+    "titel": "Schueler an oeffentlichen und privaten schulen in stuttgart seit 1950",
+    "thema": "bildung",
+    "dimensionen": [
+      "bildung"
+    ],
+    "index_relevant": true,
+    "raeumliche_ebene": "gesamtstadt",
+    "zeitliche_ebene": "unbekannt",
+    "zeitraum": [
+      null,
+      null
+    ],
+    "spalten": {
+      "bezirk": null,
+      "jahr": null,
+      "werte": [
+        "Schüler insgesamt",
+        "Grund- und Werkrealschulen - öffentliche Schule",
+        "SBBZ - öffentliche Schule",
+        "Realschulen  - öffentliche Schule",
+        "Gymnasien  - öffentliche Schule",
+        "Gemeinschaftsschulen Sekundarstufe I und II4)  - öffentliche Schule",
+        "Privatschulen\nschulen",
+        "Berufliche Schulen"
+      ]
+    },
+    "einheit": "Anzahl",
+    "qualitaet": {
+      "luecken_prozent": 0.0,
+      "zeilen": 72,
+      "bemerkungen": ""
+    }
+  },
+  {
+    "id": "schulabgange-nach-abschluss-und-geschlecht",
+    "datei": "schulabgange-nach-abschluss-und-geschlecht.csv",
+    "titel": "Schulabgange nach abschluss und geschlecht",
+    "thema": "bildung",
+    "dimensionen": [
+      "bildung"
+    ],
+    "index_relevant": true,
+    "raeumliche_ebene": "gesamtstadt",
+    "zeitliche_ebene": "jaehrlich",
+    "zeitraum": [
+      2010,
+      2024
+    ],
+    "spalten": {
+      "bezirk": null,
+      "jahr": "Jahr",
+      "werte": []
+    },
+    "einheit": "Prozent",
+    "qualitaet": {
+      "luecken_prozent": 12.0,
+      "zeilen": 16,
+      "bemerkungen": ""
+    }
+  },
+  {
+    "id": "sozialgeldempfaenger-sgb-ii-nach-stadtbezirken-seit-2005",
+    "datei": "sozialgeldempfaenger_sgb_ii_nach_stadtbezirken_seit_2005.csv",
+    "titel": "Sozialgeldempfaenger sgb ii nach stadtbezirken seit 2005",
+    "thema": "bildung",
+    "dimensionen": [
+      "bildung",
+      "soziales",
+      "demografie"
+    ],
+    "index_relevant": true,
+    "raeumliche_ebene": "stadtbezirk",
+    "zeitliche_ebene": "jaehrlich",
+    "zeitraum": [
+      2005,
+      2022
+    ],
+    "spalten": {
+      "bezirk": "Nummer des Stadtbezirks",
+      "jahr": "Jahr",
+      "werte": [
+        "insgesamt 0 bis unter 18 Jahre",
+        "darunter Nichtdeutsche",
+        "Kleinkinder 0 bis unter 3 Jahre",
+        "Kindergarten 3 bis unter 6 Jahre",
+        "insgesamt unter 6 Jahre",
+        "Grundschulkinder 6 bis unter 10 Jahre",
+        "Sekundar I-Schüler 10 bis unter 15 Jahre",
+        "Sekundar II-Schüler 15 bis unter 18 Jahre",
+        "Insgesamt 6 bis unter 18 Jahre",
+        "Schulkindbetreuung / Hort und offene Kinderarbeit 6 bis unter 12 Jahre",
+        "offene Jugendarbeit; Jugendsozialarbeit 12 bis unter 18 Jahre",
+        "14 bis unter 18 Jahre"
+      ]
+    },
+    "einheit": "Prozent",
+    "qualitaet": {
+      "luecken_prozent": 15.3,
+      "zeilen": 432,
+      "bemerkungen": ""
+    }
+  },
+  {
+    "id": "ubergang-von-grundschule-auf-weiterfuhrende-schule-nach-schulart",
+    "datei": "ubergang-von-grundschule-auf-weiterfuhrende-schule-nach-schulart.csv",
+    "titel": "Ubergang von grundschule auf weiterfuhrende schule nach schulart",
+    "thema": "bildung",
+    "dimensionen": [
+      "bildung"
+    ],
+    "index_relevant": true,
+    "raeumliche_ebene": "gesamtstadt",
+    "zeitliche_ebene": "jaehrlich",
+    "zeitraum": [
+      2010,
+      2025
+    ],
+    "spalten": {
+      "bezirk": null,
+      "jahr": "Jahr",
+      "werte": []
+    },
+    "einheit": "Prozent",
+    "qualitaet": {
+      "luecken_prozent": 18.8,
+      "zeilen": 16,
+      "bemerkungen": ""
+    }
+  },
+  {
+    "id": "haushaltsausgaben",
+    "datei": "haushaltsausgaben.csv",
+    "titel": "Haushaltsausgaben",
+    "thema": "demografie",
+    "dimensionen": [
+      "demografie"
+    ],
+    "index_relevant": true,
+    "raeumliche_ebene": "gesamtstadt",
+    "zeitliche_ebene": "jaehrlich",
+    "zeitraum": [
+      2021,
+      2021
+    ],
+    "spalten": {
+      "bezirk": null,
+      "jahr": "Jahr",
+      "werte": [
+        "Geld einsparen",
+        "Ausgaben unveränder",
+        "mehr Geld ausgeben"
+      ]
+    },
+    "einheit": "Anzahl",
+    "qualitaet": {
+      "luecken_prozent": 0.0,
+      "zeilen": 32,
+      "bemerkungen": ""
+    }
+  },
+  {
+    "id": "test-2-5-6-binnenumzuge-in-stuttgart-nach-stadtbezirken-seit1994",
+    "datei": "test_2.5.6-binnenumzuge-in-stuttgart-nach-stadtbezirken_seit1994.csv",
+    "titel": "Binnenumzuge in stuttgart nach stadtbezirken seit1994",
+    "thema": "demografie",
+    "dimensionen": [
+      "demografie"
+    ],
+    "index_relevant": true,
+    "raeumliche_ebene": "stadtbezirk",
+    "zeitliche_ebene": "jaehrlich",
+    "zeitraum": [
+      1994,
+      2023
+    ],
+    "spalten": {
+      "bezirk": "Binnenwegzug aus Stadtbezirk",
+      "jahr": "Jahr",
+      "werte": [
+        "Binnenzuzüge"
+      ]
+    },
+    "einheit": "Anzahl",
+    "qualitaet": {
+      "luecken_prozent": 0.2,
+      "zeilen": 15828,
+      "bemerkungen": ""
+    }
+  },
+  {
+    "id": "zusammengefasste-geburtenziffern-in-stuttgart-seit-1981",
+    "datei": "zusammengefasste_geburtenziffern_in_stuttgart_seit_1981.csv",
+    "titel": "Zusammengefasste geburtenziffern in stuttgart seit 1981",
+    "thema": "demografie",
+    "dimensionen": [
+      "demografie"
+    ],
+    "index_relevant": true,
+    "raeumliche_ebene": "gesamtstadt",
+    "zeitliche_ebene": "jaehrlich",
+    "zeitraum": [
+      1981,
+      2024
+    ],
+    "spalten": {
+      "bezirk": null,
+      "jahr": "Jahr",
+      "werte": []
+    },
+    "einheit": "Anzahl",
+    "qualitaet": {
+      "luecken_prozent": 0.0,
+      "zeilen": 44,
+      "bemerkungen": ""
+    }
+  },
+  {
+    "id": "arztliche-versorgung-stuttgart-seit-2010",
+    "datei": "arztliche_versorgung_stuttgart_seit_2010.csv",
+    "titel": "Arztliche versorgung stuttgart seit 2010",
+    "thema": "gesundheit",
+    "dimensionen": [
+      "gesundheit",
+      "soziales",
+      "demografie"
+    ],
+    "index_relevant": true,
+    "raeumliche_ebene": "gesamtstadt",
+    "zeitliche_ebene": "jaehrlich",
+    "zeitraum": [
+      2010,
+      2022
+    ],
+    "spalten": {
+      "bezirk": null,
+      "jahr": "Jahr",
+      "werte": []
+    },
+    "einheit": "Anzahl",
+    "qualitaet": {
+      "luecken_prozent": 3.8,
+      "zeilen": 13,
+      "bemerkungen": ""
+    }
+  },
+  {
+    "id": "handwerksahnliche-betriebe-in-stuttgart-seit-1996-nach-gewerbezweigen",
+    "datei": "handwerksahnliche-betriebe-in-stuttgart-seit-1996-nach-gewerbezweigen.csv",
+    "titel": "Handwerksahnliche betriebe in stuttgart seit 1996 nach gewerbezweigen",
+    "thema": "gesundheit",
+    "dimensionen": [
+      "gesundheit",
+      "wirtschaft"
+    ],
+    "index_relevant": true,
+    "raeumliche_ebene": "gesamtstadt",
+    "zeitliche_ebene": "jaehrlich",
+    "zeitraum": [
+      1996,
+      2024
+    ],
+    "spalten": {
+      "bezirk": null,
+      "jahr": "Jahr",
+      "werte": [
+        "Betriebe insgesamt",
+        "Bau- und Ausbaugewerbe",
+        "Elektro- und Metallgewerbe",
+        "Holzgewerbe",
+        "Bekleidungs-, Textil- und Ledergewerbe",
+        "Nahrungsmittelgewerbe",
+        "Gewerbe für Gesundheits- u. Körperpflege sowie chemisches u. Reinigungsgewerbe",
+        "Glas-, Papier-, keramisches und sonstiges Gewerbe"
+      ]
+    },
+    "einheit": "Anzahl",
+    "qualitaet": {
+      "luecken_prozent": 0.0,
+      "zeilen": 29,
+      "bemerkungen": ""
+    }
+  },
+  {
+    "id": "komunis-12205-v1-pflegebedurftige-leistungsempfanger-in-stuttgart-seit-1999",
+    "datei": "komunis-12205-v1-pflegebedurftige_leistungsempfanger_in_stuttgart_seit_1999.csv",
+    "titel": "Pflegebedurftige leistungsempfanger in stuttgart seit 1999",
+    "thema": "gesundheit",
+    "dimensionen": [
+      "gesundheit"
+    ],
+    "index_relevant": true,
+    "raeumliche_ebene": "gesamtstadt",
+    "zeitliche_ebene": "jaehrlich",
+    "zeitraum": [
+      1999,
+      2021
+    ],
+    "spalten": {
+      "bezirk": null,
+      "jahr": "Jahr",
+      "werte": [
+        "Pflegebedürftige insgesamt",
+        "Pflegebedürftige Frauen",
+        "Ambulante Pflege insgesamt",
+        "Ambulante Pflege Frauen",
+        "Stationäre Pflege insgesamt",
+        "Stationäre Pflege Frauen",
+        "Pflegegeld insgesamt",
+        "Pflegegeld Frauen"
+      ]
+    },
+    "einheit": "Anzahl",
+    "qualitaet": {
+      "luecken_prozent": 0.0,
+      "zeilen": 12,
+      "bemerkungen": ""
+    }
+  },
+  {
+    "id": "komunis-12206-v1-krankenhauser-und-betten-nach-tragern-in-stuttgart-seit-2009",
+    "datei": "komunis-12206-v1-krankenhauser_und_betten_nach_tragern_in_stuttgart_seit_2009.csv",
+    "titel": "Krankenhauser und betten nach tragern in stuttgart seit 2009",
+    "thema": "gesundheit",
+    "dimensionen": [
+      "gesundheit"
+    ],
+    "index_relevant": true,
+    "raeumliche_ebene": "gesamtstadt",
+    "zeitliche_ebene": "jaehrlich",
+    "zeitraum": [
+      2009,
+      2021
+    ],
+    "spalten": {
+      "bezirk": null,
+      "jahr": "Jahr",
+      "werte": [
+        "Krankenhäuser",
+        "Öffentlich (KH)",
+        "Freigemeinnützig (KH)",
+        "Privat (KH)",
+        "Betten",
+        "Öffentlich (Betten)",
+        "Freigemeinnützig (Betten)",
+        "Privat (Betten)"
+      ]
+    },
+    "einheit": "Anzahl",
+    "qualitaet": {
+      "luecken_prozent": 0.0,
+      "zeilen": 13,
+      "bemerkungen": ""
+    }
+  },
+  {
+    "id": "kriminalitat-und-rechtspflege-stuttgart",
+    "datei": "kriminalitat_und_rechtspflege_stuttgart.csv",
+    "titel": "Kriminalitat und rechtspflege stuttgart",
+    "thema": "gesundheit",
+    "dimensionen": [
+      "gesundheit",
+      "sicherheit"
+    ],
+    "index_relevant": true,
+    "raeumliche_ebene": "gesamtstadt",
+    "zeitliche_ebene": "jaehrlich",
+    "zeitraum": [
+      1950,
+      2024
+    ],
+    "spalten": {
+      "bezirk": null,
+      "jahr": "Jahr",
+      "werte": [
+        "Wert"
+      ]
+    },
+    "einheit": "Anzahl",
+    "qualitaet": {
+      "luecken_prozent": 0.2,
+      "zeilen": 8054,
+      "bemerkungen": ""
+    }
+  },
+  {
+    "id": "patienten-vollstationar-diagnosen",
+    "datei": "patienten_vollstationar_diagnosen.csv",
+    "titel": "Patienten vollstationar diagnosen",
+    "thema": "gesundheit",
+    "dimensionen": [
+      "gesundheit",
+      "demografie"
+    ],
+    "index_relevant": true,
+    "raeumliche_ebene": "gesamtstadt",
+    "zeitliche_ebene": "jaehrlich",
+    "zeitraum": [
+      2016,
+      2023
+    ],
+    "spalten": {
+      "bezirk": null,
+      "jahr": "Jahr",
+      "werte": [
+        "Wert"
+      ]
+    },
+    "einheit": "Anzahl",
+    "qualitaet": {
+      "luecken_prozent": 0.0,
+      "zeilen": 68839,
+      "bemerkungen": ""
+    }
+  },
+  {
+    "id": "pflegegrade-stuttgart",
+    "datei": "pflegegrade_stuttgart.csv",
+    "titel": "Pflegegrade stuttgart",
+    "thema": "gesundheit",
+    "dimensionen": [
+      "gesundheit",
+      "demografie"
+    ],
+    "index_relevant": true,
+    "raeumliche_ebene": "gesamtstadt",
+    "zeitliche_ebene": "jaehrlich",
+    "zeitraum": [
+      2015,
+      2023
+    ],
+    "spalten": {
+      "bezirk": null,
+      "jahr": "Jahr",
+      "werte": [
+        "Pflegegrad",
+        "Anzahl"
+      ]
+    },
+    "einheit": "Anzahl",
+    "qualitaet": {
+      "luecken_prozent": 0.0,
+      "zeilen": 284,
+      "bemerkungen": ""
+    }
+  },
+  {
+    "id": "besucher-des-stuttgarter-fernsehturms-seit-1956",
+    "datei": "besucher-des-stuttgarter-fernsehturms-seit-1956.csv",
+    "titel": "Besucher des stuttgarter fernsehturms seit 1956",
+    "thema": "kultur_freizeit",
+    "dimensionen": [
+      "kultur_freizeit"
+    ],
+    "index_relevant": true,
+    "raeumliche_ebene": "gesamtstadt",
+    "zeitliche_ebene": "jaehrlich",
+    "zeitraum": [
+      1956,
+      2024
+    ],
+    "spalten": {
+      "bezirk": null,
+      "jahr": "Jahr",
+      "werte": [
+        "Besucher"
+      ]
+    },
+    "einheit": "Anzahl",
+    "qualitaet": {
+      "luecken_prozent": 0.0,
+      "zeilen": 69,
+      "bemerkungen": ""
+    }
+  },
+  {
+    "id": "entleihungen-bei-der-stadtbuecherei-stuttgart-seit-1980",
+    "datei": "entleihungen_bei_der_stadtbuecherei_stuttgart_seit_1980.csv",
+    "titel": "Entleihungen bei der stadtbuecherei stuttgart seit 1980",
+    "thema": "kultur_freizeit",
+    "dimensionen": [
+      "kultur_freizeit"
+    ],
+    "index_relevant": true,
+    "raeumliche_ebene": "gesamtstadt",
+    "zeitliche_ebene": "jaehrlich",
+    "zeitraum": [
+      1980,
+      2022
+    ],
+    "spalten": {
+      "bezirk": null,
+      "jahr": null,
+      "werte": [
+        "1980",
+        "1982",
+        "1984",
+        "1986",
+        "1988",
+        "1990",
+        "1991",
+        "1992",
+        "1993",
+        "1994",
+        "1995",
+        "1996",
+        "1997",
+        "1998",
+        "1999",
+        "2000",
+        "2001",
+        "2002",
+        "2003",
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022"
+      ]
+    },
+    "einheit": "Anzahl",
+    "qualitaet": {
+      "luecken_prozent": 0.1,
+      "zeilen": 28,
+      "bemerkungen": ""
+    }
+  },
+  {
+    "id": "kinos-und-filmbesucher-im-grossstadtvergleich-ab-1997",
+    "datei": "kinos_und_filmbesucher_im_grossstadtvergleich_ab_1997.csv",
+    "titel": "Kinos und filmbesucher im grossstadtvergleich ab 1997",
+    "thema": "kultur_freizeit",
+    "dimensionen": [
+      "kultur_freizeit"
+    ],
+    "index_relevant": true,
+    "raeumliche_ebene": "gesamtstadt",
+    "zeitliche_ebene": "jaehrlich",
+    "zeitraum": [
+      1997,
+      2024
+    ],
+    "spalten": {
+      "bezirk": null,
+      "jahr": "Jahr",
+      "werte": []
+    },
+    "einheit": "Anzahl",
+    "qualitaet": {
+      "luecken_prozent": 0.0,
+      "zeilen": 2934,
+      "bemerkungen": ""
+    }
+  },
+  {
+    "id": "kinos-und-filmbesucher-in-stuttgart-seit-1981",
+    "datei": "kinos_und_filmbesucher_in_stuttgart_seit_1981.csv",
+    "titel": "Kinos und filmbesucher in stuttgart seit 1981",
+    "thema": "kultur_freizeit",
+    "dimensionen": [
+      "kultur_freizeit"
+    ],
+    "index_relevant": true,
+    "raeumliche_ebene": "gesamtstadt",
+    "zeitliche_ebene": "jaehrlich",
+    "zeitraum": [
+      1981,
+      2024
+    ],
+    "spalten": {
+      "bezirk": null,
+      "jahr": "Jahr",
+      "werte": []
+    },
+    "einheit": "Anzahl",
+    "qualitaet": {
+      "luecken_prozent": 0.0,
+      "zeilen": 264,
+      "bemerkungen": ""
+    }
+  },
+  {
+    "id": "medienbestand-der-stadtbuecherei-stuttgart-seit-1980-nach-zweigstellen",
+    "datei": "medienbestand_der_stadtbuecherei_stuttgart_seit_1980_nach_zweigstellen.csv",
+    "titel": "Medienbestand der stadtbuecherei stuttgart seit 1980 nach zweigstellen",
+    "thema": "kultur_freizeit",
+    "dimensionen": [
+      "kultur_freizeit"
+    ],
+    "index_relevant": true,
+    "raeumliche_ebene": "gesamtstadt",
+    "zeitliche_ebene": "jaehrlich",
+    "zeitraum": [
+      1980,
+      2022
+    ],
+    "spalten": {
+      "bezirk": null,
+      "jahr": null,
+      "werte": [
+        "1980",
+        "1982",
+        "1984",
+        "1986",
+        "1988",
+        "1990",
+        "1991",
+        "1992",
+        "1993",
+        "1994",
+        "1995",
+        "1996",
+        "1997",
+        "1998",
+        "1999",
+        "2000",
+        "2001",
+        "2002",
+        "2003",
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022"
+      ]
+    },
+    "einheit": "Anzahl",
+    "qualitaet": {
+      "luecken_prozent": 0.0,
+      "zeilen": 27,
+      "bemerkungen": ""
+    }
+  },
+  {
+    "id": "sportvereine-und-mitglieder-seit-1980",
+    "datei": "sportvereine_und_mitglieder_seit_1980.csv",
+    "titel": "Sportvereine und mitglieder seit 1980",
+    "thema": "kultur_freizeit",
+    "dimensionen": [
+      "kultur_freizeit"
+    ],
+    "index_relevant": true,
+    "raeumliche_ebene": "gesamtstadt",
+    "zeitliche_ebene": "jaehrlich",
+    "zeitraum": [
+      1980,
+      2023
+    ],
+    "spalten": {
+      "bezirk": null,
+      "jahr": "Jahr",
+      "werte": [
+        "Vereine",
+        "Mitglieder insgesamt",
+        "davon im Alter von unter 7 Jahren",
+        "davon im Alter von 7 bis 14 Jahren",
+        "davon im Alter von 15 bis 18 Jahren",
+        "davon im Alter von 19 bis 26 Jahren",
+        "davon im Alter von 27 Jahren und älter"
+      ]
+    },
+    "einheit": "Anzahl",
+    "qualitaet": {
+      "luecken_prozent": 4.0,
+      "zeilen": 44,
+      "bemerkungen": ""
+    }
+  },
+  {
+    "id": "staatstheater-nach-kunstgattungen",
+    "datei": "staatstheater_nach_kunstgattungen.csv",
+    "titel": "Staatstheater nach kunstgattungen",
+    "thema": "kultur_freizeit",
+    "dimensionen": [
+      "kultur_freizeit"
+    ],
+    "index_relevant": true,
+    "raeumliche_ebene": "gesamtstadt",
+    "zeitliche_ebene": "unbekannt",
+    "zeitraum": [
+      null,
+      null
+    ],
+    "spalten": {
+      "bezirk": null,
+      "jahr": null,
+      "werte": [
+        "Opern Aufführungen",
+        "Opern Besucher",
+        "Operetten und Musicals Aufführungen",
+        "Operetten und Musicals Besucher",
+        "Schauspiele Aufführungen",
+        "Schauspiele Besucher",
+        "Konzerte Aufführungen",
+        "Konzerte Besucher",
+        "Ballette und Pantomimen Aufführungen",
+        "Ballette und Pantomimen Besucher"
+      ]
+    },
+    "einheit": "Anzahl",
+    "qualitaet": {
+      "luecken_prozent": 0.0,
+      "zeilen": 76,
+      "bemerkungen": ""
+    }
+  },
+  {
+    "id": "energieverbrauch-gewerbe-verkehr-private-haushalte-gesamtstadt",
+    "datei": "energieverbrauch-gewerbe-verkehr-private-haushalte-gesamtstadt.csv",
+    "titel": "Energieverbrauch gewerbe verkehr private haushalte gesamtstadt",
+    "thema": "mobilitaet",
+    "dimensionen": [
+      "mobilitaet",
+      "wirtschaft",
+      "umwelt",
+      "demografie"
+    ],
+    "index_relevant": true,
+    "raeumliche_ebene": "gesamtstadt",
+    "zeitliche_ebene": "jaehrlich",
+    "zeitraum": [
+      2010,
+      2025
+    ],
+    "spalten": {
+      "bezirk": null,
+      "jahr": "Jahr",
+      "werte": []
+    },
+    "einheit": "Anzahl",
+    "qualitaet": {
+      "luecken_prozent": 25.0,
+      "zeilen": 16,
+      "bemerkungen": ""
+    }
+  },
+  {
+    "id": "kohlendioxid-co2-emissionen-in-stuttgart-seit-2010-nach-emittentengruppen",
+    "datei": "kohlendioxid-co2-emissionen-in-stuttgart-seit-2010-nach-emittentengruppen.csv",
+    "titel": "Kohlendioxid co2 emissionen in stuttgart seit 2010 nach emittentengruppen",
+    "thema": "mobilitaet",
+    "dimensionen": [
+      "mobilitaet",
+      "wirtschaft",
+      "umwelt",
+      "demografie"
+    ],
+    "index_relevant": true,
+    "raeumliche_ebene": "gesamtstadt",
+    "zeitliche_ebene": "jaehrlich",
+    "zeitraum": [
+      2010,
+      2017
+    ],
+    "spalten": {
+      "bezirk": null,
+      "jahr": "Jahr",
+      "werte": [
+        "CO2-Emissionen insgesamt",
+        "Industrie sowie Feuerungen und öffentliche Kraftwerke in 1000 t",
+        "Private Haushalte, Gewerbe, Handel, Dienstleistungen sowie übrige Verbraucher in 1000 t",
+        "Verkehr (ohne internationalen Flugverkehr) in 1000 t"
+      ]
+    },
+    "einheit": "Anzahl",
+    "qualitaet": {
+      "luecken_prozent": 3.1,
+      "zeilen": 4,
+      "bemerkungen": ""
+    }
+  },
+  {
+    "id": "pkw-nach-antriebsart-stadtbezirk",
+    "datei": "pkw_nach_antriebsart_stadtbezirk.csv",
+    "titel": "Pkw nach antriebsart stadtbezirk",
+    "thema": "mobilitaet",
+    "dimensionen": [
+      "mobilitaet"
+    ],
+    "index_relevant": true,
+    "raeumliche_ebene": "stadtbezirk",
+    "zeitliche_ebene": "jaehrlich",
+    "zeitraum": [
+      2010,
+      2022
+    ],
+    "spalten": {
+      "bezirk": "Stadtbezirk",
+      "jahr": "Jahr",
+      "werte": [
+        "insgesamt"
+      ]
+    },
+    "einheit": "Anzahl",
+    "qualitaet": {
+      "luecken_prozent": 0.0,
+      "zeilen": 3969,
+      "bemerkungen": ""
+    }
+  },
+  {
+    "id": "pkw-nach-halterart-segment",
+    "datei": "pkw_nach_halterart_segment.csv",
+    "titel": "Pkw nach halterart segment",
+    "thema": "mobilitaet",
+    "dimensionen": [
+      "mobilitaet"
+    ],
+    "index_relevant": true,
+    "raeumliche_ebene": "gesamtstadt",
+    "zeitliche_ebene": "jaehrlich",
+    "zeitraum": [
+      2014,
+      2022
+    ],
+    "spalten": {
+      "bezirk": null,
+      "jahr": "Jahr",
+      "werte": [
+        "Pkw"
+      ]
+    },
+    "einheit": "Anzahl",
+    "qualitaet": {
+      "luecken_prozent": 0.0,
+      "zeilen": 252,
+      "bemerkungen": ""
+    }
+  },
+  {
+    "id": "radfahrende-nach-zahlstelleund-jahr",
+    "datei": "radfahrende_nach_zahlstelleund_jahr.csv",
+    "titel": "Radfahrende nach zahlstelleund jahr",
+    "thema": "mobilitaet",
+    "dimensionen": [
+      "mobilitaet"
+    ],
+    "index_relevant": true,
+    "raeumliche_ebene": "gesamtstadt",
+    "zeitliche_ebene": "jaehrlich",
+    "zeitraum": [
+      2013,
+      2022
+    ],
+    "spalten": {
+      "bezirk": null,
+      "jahr": "Jahr",
+      "werte": [
+        "Anzahl Radfahrende"
+      ]
+    },
+    "einheit": "Anzahl",
+    "qualitaet": {
+      "luecken_prozent": 1.7,
+      "zeilen": 20,
+      "bemerkungen": ""
+    }
+  },
+  {
+    "id": "ssb-opnv-1980-bis-2024",
+    "datei": "ssb_opnv_1980_bis_2024.csv",
+    "titel": "Ssb opnv 1980 bis 2024",
+    "thema": "mobilitaet",
+    "dimensionen": [
+      "mobilitaet"
+    ],
+    "index_relevant": true,
+    "raeumliche_ebene": "gesamtstadt",
+    "zeitliche_ebene": "jaehrlich",
+    "zeitraum": [
+      1980,
+      2024
+    ],
+    "spalten": {
+      "bezirk": null,
+      "jahr": "Jahr",
+      "werte": [
+        "Anzahl"
+      ]
+    },
+    "einheit": "Anzahl",
+    "qualitaet": {
+      "luecken_prozent": 0.0,
+      "zeilen": 1284,
+      "bemerkungen": ""
+    }
+  },
+  {
+    "id": "stuttgarter-strassenbahnen-ag-im-linienverkehr-beforderte-personen-seit-1980",
+    "datei": "stuttgarter-strassenbahnen-ag-im-linienverkehr-beforderte-personen-seit-1980.csv",
+    "titel": "Stuttgarter strassenbahnen ag im linienverkehr beforderte personen seit 1980",
+    "thema": "mobilitaet",
+    "dimensionen": [
+      "mobilitaet"
+    ],
+    "index_relevant": true,
+    "raeumliche_ebene": "gesamtstadt",
+    "zeitliche_ebene": "jaehrlich",
+    "zeitraum": [
+      1980,
+      2022
+    ],
+    "spalten": {
+      "bezirk": null,
+      "jahr": "Jahr",
+      "werte": []
+    },
+    "einheit": "Anzahl",
+    "qualitaet": {
+      "luecken_prozent": 0.0,
+      "zeilen": 43,
+      "bemerkungen": ""
+    }
+  },
+  {
+    "id": "tidy-flachennutzung-stadtbezirke-seit-1996",
+    "datei": "tidy_flachennutzung_stadtbezirke_seit_1996.csv",
+    "titel": "Flachennutzung stadtbezirke seit 1996",
+    "thema": "mobilitaet",
+    "dimensionen": [
+      "mobilitaet",
+      "umwelt"
+    ],
+    "index_relevant": true,
+    "raeumliche_ebene": "stadtbezirk",
+    "zeitliche_ebene": "unbekannt",
+    "zeitraum": [
+      null,
+      null
+    ],
+    "spalten": {
+      "bezirk": "Stadtbezirk",
+      "jahr": null,
+      "werte": []
+    },
+    "einheit": "Anzahl",
+    "qualitaet": {
+      "luecken_prozent": 0.0,
+      "zeilen": 10309,
+      "bemerkungen": ""
+    }
+  },
+  {
+    "id": "treibhausgasausstoss-industrie-verkehr-private-haushalte-gesamtstadt",
+    "datei": "treibhausgasausstoss-industrie-verkehr-private-haushalte-gesamtstadt.csv",
+    "titel": "Treibhausgasausstoss industrie verkehr private haushalte gesamtstadt",
+    "thema": "mobilitaet",
+    "dimensionen": [
+      "mobilitaet",
+      "umwelt",
+      "demografie"
+    ],
+    "index_relevant": true,
+    "raeumliche_ebene": "gesamtstadt",
+    "zeitliche_ebene": "jaehrlich",
+    "zeitraum": [
+      2010,
+      2025
+    ],
+    "spalten": {
+      "bezirk": null,
+      "jahr": "Jahr",
+      "werte": []
+    },
+    "einheit": "Anzahl",
+    "qualitaet": {
+      "luecken_prozent": 14.1,
+      "zeilen": 16,
+      "bemerkungen": ""
+    }
+  },
+  {
+    "id": "verkehrszahlungen-stuttgart-1980-bis-2024",
+    "datei": "verkehrszahlungen_stuttgart_1980_bis_2024.csv",
+    "titel": "Verkehrszahlungen stuttgart 1980 bis 2024",
+    "thema": "mobilitaet",
+    "dimensionen": [
+      "mobilitaet"
+    ],
+    "index_relevant": true,
+    "raeumliche_ebene": "gesamtstadt",
+    "zeitliche_ebene": "jaehrlich",
+    "zeitraum": [
+      1980,
+      2024
+    ],
+    "spalten": {
+      "bezirk": null,
+      "jahr": "Jahr",
+      "werte": [
+        "Anzahl"
+      ]
+    },
+    "einheit": "Anzahl",
+    "qualitaet": {
+      "luecken_prozent": 0.0,
+      "zeilen": 1095,
+      "bemerkungen": ""
+    }
+  },
+  {
+    "id": "vvs-opnv-1980-bis-2024",
+    "datei": "vvs_opnv_1980_bis_2024.csv",
+    "titel": "Vvs opnv 1980 bis 2024",
+    "thema": "mobilitaet",
+    "dimensionen": [
+      "mobilitaet"
+    ],
+    "index_relevant": true,
+    "raeumliche_ebene": "gesamtstadt",
+    "zeitliche_ebene": "jaehrlich",
+    "zeitraum": [
+      1983,
+      2024
+    ],
+    "spalten": {
+      "bezirk": null,
+      "jahr": "Jahr",
+      "werte": []
+    },
+    "einheit": "Anzahl",
+    "qualitaet": {
+      "luecken_prozent": 0.0,
+      "zeilen": 358,
+      "bemerkungen": ""
+    }
+  },
+  {
+    "id": "komunis-479-v1-kriminalitat-straftaten-in-stuttgart-seit-1980",
+    "datei": "komunis-479-v1-kriminalitat__straftaten_in_stuttgart_seit_1980.csv",
+    "titel": "Kriminalitat  straftaten in stuttgart seit 1980",
+    "thema": "sicherheit",
+    "dimensionen": [
+      "sicherheit"
+    ],
+    "index_relevant": true,
+    "raeumliche_ebene": "gesamtstadt",
+    "zeitliche_ebene": "jaehrlich",
+    "zeitraum": [
+      1980,
+      2022
+    ],
+    "spalten": {
+      "bezirk": null,
+      "jahr": "Jahr",
+      "werte": [
+        "Erfaßte Straftaten insgesamt",
+        "Gegen das Strafgesetzbuch",
+        "Gegen den Staat und die öffentliche Ordnung (StGB)",
+        "Gegen die Person (StGB)",
+        "Gegen die sexuelle Selbstbestimmung (Person)",
+        "Gegen das Leben (Person)",
+        "Körperverletzung (Person)",
+        "Gegen die persönliche Freiheit (Person)",
+        "Gegen das Vermögen (StGB)",
+        "Sonstige Straftaten (StGB)",
+        "Gegen strafgrechtliche Nebengesetze"
+      ]
+    },
+    "einheit": "Anzahl",
+    "qualitaet": {
+      "luecken_prozent": 8.9,
+      "zeilen": 43,
+      "bemerkungen": ""
+    }
+  },
+  {
+    "id": "komunis-5794-kriminalitat-straftaten-und-tatverdachtige-seit-1997-im-regionalen-",
+    "datei": "komunis-5794-kriminalitat_-straftaten-und-tatverdachtige-seit-1997-im-regionalen-vergleich.csv",
+    "titel": "Kriminalitat  straftaten und tatverdachtige seit 1997 im regionalen vergleich",
+    "thema": "sicherheit",
+    "dimensionen": [
+      "sicherheit",
+      "soziales",
+      "demografie"
+    ],
+    "index_relevant": true,
+    "raeumliche_ebene": "gesamtstadt",
+    "zeitliche_ebene": "unbekannt",
+    "zeitraum": [
+      null,
+      null
+    ],
+    "spalten": {
+      "bezirk": null,
+      "jahr": null,
+      "werte": [
+        "Erfasste Straftaten insgesamt",
+        "Straftaten auf 100000 Einwohner",
+        "Aufgeklärte Straftaten",
+        "Aufklärungsquote in %",
+        "Ermittelte Tatverdächtige insgesamt",
+        "Nicht-deutsche Tatverdächtige",
+        "Weibliche Tatverdächtige",
+        "im Alter von 14 bis unter 18 Jahren",
+        "im Alter von 18 bis unter 21 Jahren",
+        "21 Jahre und älter"
+      ]
+    },
+    "einheit": "Prozent",
+    "qualitaet": {
+      "luecken_prozent": 10.0,
+      "zeilen": 10,
+      "bemerkungen": ""
+    }
+  },
+  {
+    "id": "komunis-9903-v1-kriminalitat-strassen-und-gewaltkriminalitat-seit-2008",
+    "datei": "komunis-9903-v1-kriminalitat__strassen-_und_gewaltkriminalitat_seit_2008.csv",
+    "titel": "Kriminalitat  strassen  und gewaltkriminalitat seit 2008",
+    "thema": "sicherheit",
+    "dimensionen": [
+      "sicherheit",
+      "soziales"
+    ],
+    "index_relevant": true,
+    "raeumliche_ebene": "stadtbezirk",
+    "zeitliche_ebene": "jaehrlich",
+    "zeitraum": [
+      2008,
+      2022
+    ],
+    "spalten": {
+      "bezirk": "Stadtbezirk Nr.",
+      "jahr": "Jahr",
+      "werte": [
+        "Monat",
+        "Straßenkriminalität erfasste Fälle",
+        "Straßenkriminalität Tatverdächtige insgesamt",
+        "Straßenkriminalität Tatverdächtige Kinder u.14 J.",
+        "Straßenkriminalität Tatverdächtige Jugendliche 14- u. 18 J.",
+        "Straßenkriminalität Tatverdächtige Heranwachsende 18- u. 21 J.",
+        "Straßenkriminalität Tatverdächtige u. 21 J. absolut",
+        "Gewaltkriminalität erfasste Fälle",
+        "Gewaltkriminalität Tatverdächtige insgesamt",
+        "Gewaltkriminalität Tatverdächtige Kinder u.14 J.",
+        "Gewaltkriminalität Tatverdächtige Jugendliche 14- u. 18 J.",
+        "Gewaltkriminalität Tatverdächtige Heranwachsende 18- u. 21 J.",
+        "Gewaltkriminalität Tatverdächtige u. 21 J. absolut"
+      ]
+    },
+    "einheit": "Anzahl",
+    "qualitaet": {
+      "luecken_prozent": 0.0,
+      "zeilen": 360,
+      "bemerkungen": ""
+    }
+  },
+  {
+    "id": "kriminalitat-tatverdachtige-in-stuttgart-seit-1980-nach-alter-staatsangehorigkei",
+    "datei": "kriminalitat_-tatverdachtige-in-stuttgart-seit-1980-nach-alter_-staatsangehorigkeit-und-geschlec.csv",
+    "titel": "Kriminalitat  tatverdachtige in stuttgart seit 1980 nach alter  staatsangehorigkeit und geschlec",
+    "thema": "sicherheit",
+    "dimensionen": [
+      "sicherheit",
+      "soziales"
+    ],
+    "index_relevant": true,
+    "raeumliche_ebene": "gesamtstadt",
+    "zeitliche_ebene": "jaehrlich",
+    "zeitraum": [
+      1980,
+      2022
+    ],
+    "spalten": {
+      "bezirk": null,
+      "jahr": "Jahr",
+      "werte": [
+        "Tatverdächtige insgesamt",
+        "Davon Deutsche",
+        "Davon Ausländer",
+        "Davon unter 14 Jahre alt insgesamt",
+        "Davon unter 14 Jahre alt weiblich",
+        "Davon 14 bis unter 18 Jahre alt insgesamt",
+        "Davon 14 bis unter 18 Jahre alt weiblich",
+        "Davon 18 bis unter 21 Jahre alt insgesamt",
+        "Davon 18 bis unter 21 Jahre alt weiblich",
+        "Davon 21 und älter insgesamt",
+        "Davon 21 und älter weiblich"
+      ]
+    },
+    "einheit": "Anzahl",
+    "qualitaet": {
+      "luecken_prozent": 0.0,
+      "zeilen": 43,
+      "bemerkungen": ""
+    }
+  },
+  {
+    "id": "opfer-in-stuttgart-seit-2013-nach-alter-und-geschlecht",
+    "datei": "opfer-in-stuttgart-seit-2013-nach-alter-und-geschlecht.csv",
+    "titel": "Opfer in stuttgart seit 2013 nach alter und geschlecht",
+    "thema": "sicherheit",
+    "dimensionen": [
+      "sicherheit",
+      "soziales"
+    ],
+    "index_relevant": true,
+    "raeumliche_ebene": "gesamtstadt",
+    "zeitliche_ebene": "jaehrlich",
+    "zeitraum": [
+      2013,
+      2022
+    ],
+    "spalten": {
+      "bezirk": null,
+      "jahr": "Jahr",
+      "werte": [
+        "Opfer insgesamt",
+        "Opfer weiblich",
+        "Davon Tathandlung versucht",
+        "Davon Tathandlung vollendet",
+        "Davon Kinder unter 14 insgesamt",
+        "Davon Kinder unter 14 weiblich",
+        "Davon Jugendliche zwischen 14 < 18 insgesamt",
+        "Davon Jugendliche zwischen 14 < 18 weiblich",
+        "Davon Heranwachsende zwischen 18 < 21 insgesamt",
+        "Davon Heranwachsende zwischen 18 < 21 weiblich",
+        "Davon Erwachsene ab 21 insgesamt",
+        "Davon Erwachsene ab 21 weiblich"
+      ]
+    },
+    "einheit": "Anzahl",
+    "qualitaet": {
+      "luecken_prozent": 28.6,
+      "zeilen": 14,
+      "bemerkungen": ""
+    }
+  },
+  {
+    "id": "strassenverkehrsunfalle-1980-bis-2024",
+    "datei": "strassenverkehrsunfalle_1980_bis_2024.csv",
+    "titel": "Strassenverkehrsunfalle 1980 bis 2024",
+    "thema": "sicherheit",
+    "dimensionen": [
+      "sicherheit",
+      "mobilitaet"
+    ],
+    "index_relevant": true,
+    "raeumliche_ebene": "gesamtstadt",
+    "zeitliche_ebene": "jaehrlich",
+    "zeitraum": [
+      1980,
+      2024
+    ],
+    "spalten": {
+      "bezirk": null,
+      "jahr": "Jahr",
+      "werte": [
+        "Anzahl"
+      ]
+    },
+    "einheit": "Anzahl",
+    "qualitaet": {
+      "luecken_prozent": 0.0,
+      "zeilen": 1710,
+      "bemerkungen": ""
+    }
+  },
+  {
+    "id": "unfalle-nach-sach-personen-stadtbezirk",
+    "datei": "unfalle_nach_sach_personen_stadtbezirk.csv",
+    "titel": "Unfalle nach sach personen stadtbezirk",
+    "thema": "sicherheit",
+    "dimensionen": [
+      "sicherheit"
+    ],
+    "index_relevant": true,
+    "raeumliche_ebene": "stadtbezirk",
+    "zeitliche_ebene": "jaehrlich",
+    "zeitraum": [
+      2012,
+      2022
+    ],
+    "spalten": {
+      "bezirk": "Stadtbezirk",
+      "jahr": "Jahr",
+      "werte": [
+        "Unfälle"
+      ]
+    },
+    "einheit": "Anzahl",
+    "qualitaet": {
+      "luecken_prozent": 0.0,
+      "zeilen": 506,
+      "bemerkungen": ""
+    }
+  },
+  {
+    "id": "arbeitslosengeld-ii-empfanger-sgb-ii",
+    "datei": "arbeitslosengeld-ii-empfanger-sgb-ii.csv",
+    "titel": "Arbeitslosengeld ii empfanger sgb ii",
+    "thema": "soziales",
+    "dimensionen": [
+      "soziales",
+      "demografie"
+    ],
+    "index_relevant": true,
+    "raeumliche_ebene": "stadtbezirk",
+    "zeitliche_ebene": "jaehrlich",
+    "zeitraum": [
+      2021,
+      2021
+    ],
+    "spalten": {
+      "bezirk": "Stadtbezirk",
+      "jahr": "Jahr",
+      "werte": [
+        "Monat",
+        "Erwerbsfähige Leistungsberechtigte (eLb) insgesamt",
+        "Davon weiblich",
+        "Nicht-deutsche eLb",
+        "Unter 25-jährige eLb",
+        "18 bis unter 35-jährige eLb",
+        "35 bis unter 50-jährige eLb",
+        "eLb 50 Jahre und älter",
+        "Bedarfsgemeinschaften (BG) insgesamt",
+        "BG bestehend aus 1 Person",
+        "BG bestehend aus 2 und mehr Personen",
+        "BGs mit Kindern",
+        "Alleinerziehende eLb insgesamt",
+        "Personen in BGs insgesamt"
+      ]
+    },
+    "einheit": "Prozent",
+    "qualitaet": {
+      "luecken_prozent": 1.1,
+      "zeilen": 24,
+      "bemerkungen": ""
+    }
+  },
+  {
+    "id": "armut-kinder-jugendliche-und-junge-erwachsene-altere-alleinerziehende",
+    "datei": "armut-kinder-jugendliche-und-junge-erwachsene-altere-alleinerziehende.csv",
+    "titel": "Armut kinder jugendliche und junge erwachsene altere alleinerziehende",
+    "thema": "soziales",
+    "dimensionen": [
+      "soziales"
+    ],
+    "index_relevant": true,
+    "raeumliche_ebene": "gesamtstadt",
+    "zeitliche_ebene": "jaehrlich",
+    "zeitraum": [
+      2010,
+      2024
+    ],
+    "spalten": {
+      "bezirk": null,
+      "jahr": "Jahr",
+      "werte": []
+    },
+    "einheit": "Anzahl",
+    "qualitaet": {
+      "luecken_prozent": 11.2,
+      "zeilen": 16,
+      "bemerkungen": ""
+    }
+  },
+  {
+    "id": "einwohner-in-stuttgart-nach-altersgruppen-und-stadtbezirken-seit-1986",
+    "datei": "einwohner-in-stuttgart-nach-altersgruppen-und-stadtbezirken-seit-1986.csv",
+    "titel": "Einwohner in stuttgart nach altersgruppen und stadtbezirken seit 1986",
+    "thema": "soziales",
+    "dimensionen": [
+      "soziales",
+      "demografie"
+    ],
+    "index_relevant": true,
+    "raeumliche_ebene": "stadtbezirk",
+    "zeitliche_ebene": "unbekannt",
+    "zeitraum": [
+      null,
+      null
+    ],
+    "spalten": {
+      "bezirk": "Stadtbezirk",
+      "jahr": null,
+      "werte": [
+        "Einwohner"
+      ]
+    },
+    "einheit": "Anzahl",
+    "qualitaet": {
+      "luecken_prozent": 0.0,
+      "zeilen": 25760,
+      "bemerkungen": ""
+    }
+  },
+  {
+    "id": "einwohnerbilanz-in-stuttgart-seit-1950",
+    "datei": "einwohnerbilanz_in_stuttgart_seit_1950.csv",
+    "titel": "Einwohnerbilanz in stuttgart seit 1950",
+    "thema": "soziales",
+    "dimensionen": [
+      "soziales",
+      "demografie"
+    ],
+    "index_relevant": true,
+    "raeumliche_ebene": "gesamtstadt",
+    "zeitliche_ebene": "jaehrlich",
+    "zeitraum": [
+      1950,
+      2024
+    ],
+    "spalten": {
+      "bezirk": null,
+      "jahr": "Jahr",
+      "werte": [
+        "Lebendgeborene",
+        "Gestorbene",
+        "Saldo",
+        "Zuzüge",
+        "Fortzüge",
+        "Saldo.1",
+        "Einwohnerzu- bzw. -abnahme (-)"
+      ]
+    },
+    "einheit": "Anzahl",
+    "qualitaet": {
+      "luecken_prozent": 0.0,
+      "zeilen": 75,
+      "bemerkungen": ""
+    }
+  },
+  {
+    "id": "haushalte-familien-mit-kindern-in-stuttgart-am-stichtag-nach-der-zahl-der-kinder",
+    "datei": "haushalte-familien-mit-kindern-in-stuttgart-am-stichtag-nach-der-zahl-der-kinder-und-stadtbezirk.csv",
+    "titel": "Haushalte familien mit kindern in stuttgart am stichtag nach der zahl der kinder und stadtbezirk",
+    "thema": "soziales",
+    "dimensionen": [
+      "soziales",
+      "demografie"
+    ],
+    "index_relevant": true,
+    "raeumliche_ebene": "stadtbezirk",
+    "zeitliche_ebene": "unbekannt",
+    "zeitraum": [
+      null,
+      null
+    ],
+    "spalten": {
+      "bezirk": "Stadtbezirk",
+      "jahr": null,
+      "werte": [
+        "Haushalte",
+        "Familien mit Kindern insgesamt",
+        "Familien mit 1 Kind",
+        "Familien mit 2 Kindern",
+        "Familien mit 3 Kindern",
+        "Famlien mit 4 und mehr Kindern",
+        "Paare mit Kindern",
+        "Alleinerziehende"
+      ]
+    },
+    "einheit": "Prozent",
+    "qualitaet": {
+      "luecken_prozent": 0.0,
+      "zeilen": 23,
+      "bemerkungen": ""
+    }
+  },
+  {
+    "id": "komunis-12204-v1-empfanger-von-sozialen-mindestsicherungsleistungen-nach-art-der",
+    "datei": "komunis-12204-v1-empfanger_von_sozialen_mindestsicherungsleistungen_nach_art_der_leistung_in_stu.csv",
+    "titel": "Empfanger von sozialen mindestsicherungsleistungen nach art der leistung in stu",
+    "thema": "soziales",
+    "dimensionen": [
+      "soziales",
+      "demografie"
+    ],
+    "index_relevant": true,
+    "raeumliche_ebene": "gesamtstadt",
+    "zeitliche_ebene": "jaehrlich",
+    "zeitraum": [
+      2010,
+      2021
+    ],
+    "spalten": {
+      "bezirk": null,
+      "jahr": "Jahr",
+      "werte": [
+        "Empfänger von sozialen Mindestsicherungsleistungen",
+        "Empfänger von sozialen Mindestsicherungsleistungen je 1000 Einwohner",
+        "Gesamtregelleistung",
+        "Erwerbsf. Leistungsb. (Arbeitslosengeld II)",
+        "Nicht erwerbsf. Leistungsb. (Sozialgeld)",
+        "Hilfe z. Lebensunt. außerh. v. Einr. n. d. SGB XII",
+        "Grundsicher. im Alter u.b. Erwerbsm. n. d. SGB XII",
+        "Regelleist. n.d. Asylbewerberleistungsgesetz"
+      ]
+    },
+    "einheit": "Je 1.000 Einwohner",
+    "qualitaet": {
+      "luecken_prozent": 0.0,
+      "zeilen": 12,
+      "bemerkungen": ""
+    }
+  },
+  {
+    "id": "relative-naturliche-bevolkerungsentwicklung-stadtbezirke",
+    "datei": "relative-naturliche-bevolkerungsentwicklung_stadtbezirke.csv",
+    "titel": "Relative naturliche bevolkerungsentwicklung stadtbezirke",
+    "thema": "soziales",
+    "dimensionen": [
+      "soziales",
+      "demografie"
+    ],
+    "index_relevant": true,
+    "raeumliche_ebene": "stadtbezirk",
+    "zeitliche_ebene": "jaehrlich",
+    "zeitraum": [
+      1986,
+      2022
+    ],
+    "spalten": {
+      "bezirk": "Stadtbezirknummer",
+      "jahr": "Jahr",
+      "werte": [
+        "Lebendgeborene",
+        "Sterbefälle",
+        "Natürlicher Saldo",
+        "Einwohner Vorjahr"
+      ]
+    },
+    "einheit": "Je 1.000 Einwohner",
+    "qualitaet": {
+      "luecken_prozent": 0.0,
+      "zeilen": 851,
+      "bemerkungen": ""
+    }
+  },
+  {
+    "id": "sozialversicherungspflichtig-beschaeftigte-am-wohnort-nach-stadtbezirken-seit-20",
+    "datei": "sozialversicherungspflichtig_beschaeftigte_am_wohnort_nach_stadtbezirken_seit_2001.csv",
+    "titel": "Sozialversicherungspflichtig beschaeftigte am wohnort nach stadtbezirken seit 2001",
+    "thema": "soziales",
+    "dimensionen": [
+      "soziales"
+    ],
+    "index_relevant": true,
+    "raeumliche_ebene": "stadtbezirk",
+    "zeitliche_ebene": "jaehrlich",
+    "zeitraum": [
+      2001,
+      2022
+    ],
+    "spalten": {
+      "bezirk": "Nummer des Stadtbezirks",
+      "jahr": "Jahr",
+      "werte": [
+        "Sozialversicherungspflichtig Beschäftigte insgesamt",
+        "unter 25 Jahre",
+        "25 Jahre und älter"
+      ]
+    },
+    "einheit": "Anzahl",
+    "qualitaet": {
+      "luecken_prozent": 0.0,
+      "zeilen": 528,
+      "bemerkungen": ""
+    }
+  },
+  {
+    "id": "test-2-2-32-auslander-in-stuttgart-am-stichtag-nach-wohndauer-in-der-gemeinde-un",
+    "datei": "test-2.2.32-auslander-in-stuttgart-am-stichtag-nach-wohndauer-in-der-gemeinde-und-stadtbezirken-.csv",
+    "titel": "Auslander in stuttgart am stichtag nach wohndauer in der gemeinde und stadtbezirken",
+    "thema": "soziales",
+    "dimensionen": [
+      "soziales",
+      "demografie"
+    ],
+    "index_relevant": true,
+    "raeumliche_ebene": "stadtbezirk",
+    "zeitliche_ebene": "unbekannt",
+    "zeitraum": [
+      null,
+      null
+    ],
+    "spalten": {
+      "bezirk": "Stadtbezirk",
+      "jahr": null,
+      "werte": [
+        "Ausländer"
+      ]
+    },
+    "einheit": "Anzahl",
+    "qualitaet": {
+      "luecken_prozent": 0.0,
+      "zeilen": 7659,
+      "bemerkungen": ""
+    }
+  },
+  {
+    "id": "test-2-3-4-haushalte-in-stuttgart-am-stichtag-nach-der-zahl-der-personen-und-sta",
+    "datei": "test_2.3.4-haushalte-in-stuttgart-am-stichtag-nach-der-zahl-der-personen-und-stadtbezirken_seit2.csv",
+    "titel": "Haushalte in stuttgart am stichtag nach der zahl der personen und stadtbezirken seit2",
+    "thema": "soziales",
+    "dimensionen": [
+      "soziales",
+      "demografie"
+    ],
+    "index_relevant": true,
+    "raeumliche_ebene": "stadtbezirk",
+    "zeitliche_ebene": "unbekannt",
+    "zeitraum": [
+      null,
+      null
+    ],
+    "spalten": {
+      "bezirk": "Stadtbezirk",
+      "jahr": null,
+      "werte": [
+        "Haushalte insgesamt",
+        "Haushalte mit 1 Person",
+        "Haushalte mit 2 Personen",
+        "Haushalte mit 3 Personen",
+        "Haushalte mit 4 Personen",
+        "Haushalte mit 5 und mehr Personen",
+        "Bevölkerung in Haushalten"
+      ]
+    },
+    "einheit": "Anzahl",
+    "qualitaet": {
+      "luecken_prozent": 0.0,
+      "zeilen": 529,
+      "bemerkungen": ""
+    }
+  },
+  {
+    "id": "wanderungen-von-und-nach-stuttgart-seit-1950-nach-staatsangehorigkeit",
+    "datei": "wanderungen_von_und_nach_stuttgart_seit_1950_nach_staatsangehorigkeit.csv",
+    "titel": "Wanderungen von und nach stuttgart seit 1950 nach staatsangehorigkeit",
+    "thema": "soziales",
+    "dimensionen": [
+      "soziales",
+      "demografie"
+    ],
+    "index_relevant": true,
+    "raeumliche_ebene": "gesamtstadt",
+    "zeitliche_ebene": "jaehrlich",
+    "zeitraum": [
+      1950,
+      2024
+    ],
+    "spalten": {
+      "bezirk": null,
+      "jahr": "Jahr",
+      "werte": [
+        "insgesamt",
+        "Deutsche",
+        "Ausländer",
+        "insgesamt.1",
+        "Deutsche.1",
+        "Ausländer.1",
+        "insgesamt.2",
+        "Deutsche.2",
+        "Ausländer.2"
+      ]
+    },
+    "einheit": "Anzahl",
+    "qualitaet": {
+      "luecken_prozent": 0.0,
+      "zeilen": 75,
+      "bemerkungen": ""
+    }
+  },
+  {
+    "id": "wanderungsentwicklung-seit-2011-auf-stadtteilebene",
+    "datei": "wanderungsentwicklung_seit_2011_auf_stadtteilebene.csv",
+    "titel": "Wanderungsentwicklung seit 2011 auf stadtteilebene",
+    "thema": "soziales",
+    "dimensionen": [
+      "soziales",
+      "demografie"
+    ],
+    "index_relevant": true,
+    "raeumliche_ebene": "stadtbezirk",
+    "zeitliche_ebene": "jaehrlich",
+    "zeitraum": [
+      2011,
+      2022
+    ],
+    "spalten": {
+      "bezirk": "Stadtbezirknummer",
+      "jahr": "Jahr",
+      "werte": [
+        "Stadtteilnummer",
+        "Zuzüge",
+        "Fortzüge",
+        "Saldo",
+        "Binnenzuzüge ohne Umzüge in Stadtteilen",
+        "Binnenfortzüge ohne Umzüge in Stadtteilen",
+        "Saldo Binnenwanderung",
+        "Umzüge in Stadtteilen",
+        "AGO(Einwohner, 1)"
+      ]
+    },
+    "einheit": "Je 1.000 Einwohner",
+    "qualitaet": {
+      "luecken_prozent": 1.3,
+      "zeilen": 1824,
+      "bemerkungen": ""
+    }
+  },
+  {
+    "id": "wanderungsentwicklung-stadtteile",
+    "datei": "wanderungsentwicklung_stadtteile.csv",
+    "titel": "Wanderungsentwicklung stadtteile",
+    "thema": "soziales",
+    "dimensionen": [
+      "soziales",
+      "demografie"
+    ],
+    "index_relevant": true,
+    "raeumliche_ebene": "stadtbezirk",
+    "zeitliche_ebene": "jaehrlich",
+    "zeitraum": [
+      2011,
+      2022
+    ],
+    "spalten": {
+      "bezirk": "Nummer des Stadtbezirks",
+      "jahr": "Jahr",
+      "werte": [
+        "Nummer des Stadtteils",
+        "Zuzug über die Gemeindegrenze",
+        "Fortzug über die Gemeindegrenze",
+        "Saldo über die Gemeindegrenze",
+        "Zuzug innerhalb Stuttgarts über die Stadtteilgrenze",
+        "Fortzug innerhalb Stuttgarts über die Stadtteilgrenze",
+        "Saldo innerhalb Stuttgarts über die Stadtteilgrenze",
+        "Umzüge innerhalb des Stadtteils",
+        "Einwohner (Vorjahr)"
+      ]
+    },
+    "einheit": "Je 1.000 Einwohner",
+    "qualitaet": {
+      "luecken_prozent": 1.1,
+      "zeilen": 1825,
+      "bemerkungen": ""
+    }
+  },
+  {
+    "id": "abwasserreinigung-stuttgart-seit-1980",
+    "datei": "abwasserreinigung_stuttgart_seit_1980.csv",
+    "titel": "Abwasserreinigung stuttgart seit 1980",
+    "thema": "umwelt",
+    "dimensionen": [
+      "umwelt"
+    ],
+    "index_relevant": true,
+    "raeumliche_ebene": "gesamtstadt",
+    "zeitliche_ebene": "jaehrlich",
+    "zeitraum": [
+      1980,
+      2023
+    ],
+    "spalten": {
+      "bezirk": null,
+      "jahr": "Jahr",
+      "werte": [
+        "Anzahl"
+      ]
+    },
+    "einheit": "Anzahl",
+    "qualitaet": {
+      "luecken_prozent": 0.0,
+      "zeilen": 260,
+      "bemerkungen": ""
+    }
+  },
+  {
+    "id": "emissionen-stuttgart",
+    "datei": "emissionen_stuttgart.csv",
+    "titel": "Emissionen stuttgart",
+    "thema": "umwelt",
+    "dimensionen": [
+      "umwelt"
+    ],
+    "index_relevant": true,
+    "raeumliche_ebene": "gesamtstadt",
+    "zeitliche_ebene": "jaehrlich",
+    "zeitraum": [
+      1980,
+      2021
+    ],
+    "spalten": {
+      "bezirk": null,
+      "jahr": "Jahr",
+      "werte": []
+    },
+    "einheit": "Anzahl",
+    "qualitaet": {
+      "luecken_prozent": 0.0,
+      "zeilen": 325,
+      "bemerkungen": ""
+    }
+  },
+  {
+    "id": "energie-und-wasserverbrauch-stuttgart",
+    "datei": "energie_und_wasserverbrauch_stuttgart.csv",
+    "titel": "Energie und wasserverbrauch stuttgart",
+    "thema": "umwelt",
+    "dimensionen": [
+      "umwelt"
+    ],
+    "index_relevant": true,
+    "raeumliche_ebene": "gesamtstadt",
+    "zeitliche_ebene": "jaehrlich",
+    "zeitraum": [
+      1980,
+      2022
+    ],
+    "spalten": {
+      "bezirk": null,
+      "jahr": "Jahr",
+      "werte": [
+        "Anzahl"
+      ]
+    },
+    "einheit": "Anzahl",
+    "qualitaet": {
+      "luecken_prozent": 0.0,
+      "zeilen": 432,
+      "bemerkungen": ""
+    }
+  },
+  {
+    "id": "immissionen-stuttgart",
+    "datei": "immissionen_stuttgart.csv",
+    "titel": "Immissionen stuttgart",
+    "thema": "umwelt",
+    "dimensionen": [
+      "umwelt"
+    ],
+    "index_relevant": true,
+    "raeumliche_ebene": "gesamtstadt",
+    "zeitliche_ebene": "jaehrlich",
+    "zeitraum": [
+      1990,
+      2024
+    ],
+    "spalten": {
+      "bezirk": null,
+      "jahr": "Jahr",
+      "werte": []
+    },
+    "einheit": "Anzahl",
+    "qualitaet": {
+      "luecken_prozent": 0.0,
+      "zeilen": 521,
+      "bemerkungen": ""
+    }
+  },
+  {
+    "id": "larmbelastung",
+    "datei": "larmbelastung.csv",
+    "titel": "Larmbelastung",
+    "thema": "umwelt",
+    "dimensionen": [
+      "umwelt"
+    ],
+    "index_relevant": true,
+    "raeumliche_ebene": "gesamtstadt",
+    "zeitliche_ebene": "jaehrlich",
+    "zeitraum": [
+      2010,
+      2024
+    ],
+    "spalten": {
+      "bezirk": null,
+      "jahr": "Jahr",
+      "werte": []
+    },
+    "einheit": "Anzahl",
+    "qualitaet": {
+      "luecken_prozent": 59.4,
+      "zeilen": 16,
+      "bemerkungen": ""
+    }
+  },
+  {
+    "id": "luftqualitat",
+    "datei": "luftqualitat.csv",
+    "titel": "Luftqualitat",
+    "thema": "umwelt",
+    "dimensionen": [
+      "umwelt"
+    ],
+    "index_relevant": true,
+    "raeumliche_ebene": "gesamtstadt",
+    "zeitliche_ebene": "jaehrlich",
+    "zeitraum": [
+      2010,
+      2024
+    ],
+    "spalten": {
+      "bezirk": null,
+      "jahr": "Jahr",
+      "werte": [
+        "Jahresmittelwerte NO2  µg pro m³ Am Neckartor",
+        "Jahresmittelwerte NO2  µg pro m³ Hohenheimerstraße",
+        "Tage mit Überschreitung PM10 > 50 µg pro m³ Am Neckartor",
+        "Tage mit Überschreitung PM10 > 50 µg pro m³ Hohenheimerstraße"
+      ]
+    },
+    "einheit": "Anzahl",
+    "qualitaet": {
+      "luecken_prozent": 19.8,
+      "zeilen": 16,
+      "bemerkungen": ""
+    }
+  },
+  {
+    "id": "naturschutzflachen-stuttgart",
+    "datei": "naturschutzflachen_stuttgart.csv",
+    "titel": "Naturschutzflachen stuttgart",
+    "thema": "umwelt",
+    "dimensionen": [
+      "umwelt"
+    ],
+    "index_relevant": true,
+    "raeumliche_ebene": "gesamtstadt",
+    "zeitliche_ebene": "jaehrlich",
+    "zeitraum": [
+      1994,
+      2022
+    ],
+    "spalten": {
+      "bezirk": null,
+      "jahr": "Jahr",
+      "werte": [
+        "Anzahl"
+      ]
+    },
+    "einheit": "Anzahl",
+    "qualitaet": {
+      "luecken_prozent": 0.0,
+      "zeilen": 109,
+      "bemerkungen": ""
+    }
+  },
+  {
+    "id": "strom-erdgas-und-wasserpreise-in-stuttgart-seit-1980",
+    "datei": "strom-erdgas-und-wasserpreise-in-stuttgart-seit-1980.csv",
+    "titel": "Strom erdgas und wasserpreise in stuttgart seit 1980",
+    "thema": "umwelt",
+    "dimensionen": [
+      "umwelt",
+      "demografie"
+    ],
+    "index_relevant": true,
+    "raeumliche_ebene": "gesamtstadt",
+    "zeitliche_ebene": "unbekannt",
+    "zeitraum": [
+      null,
+      null
+    ],
+    "spalten": {
+      "bezirk": null,
+      "jahr": null,
+      "werte": []
+    },
+    "einheit": "Euro",
+    "qualitaet": {
+      "luecken_prozent": 14.2,
+      "zeilen": 80,
+      "bemerkungen": ""
+    }
+  },
+  {
+    "id": "trinkwasserverbrauch-stuttgart",
+    "datei": "trinkwasserverbrauch_stuttgart.csv",
+    "titel": "Trinkwasserverbrauch stuttgart",
+    "thema": "umwelt",
+    "dimensionen": [
+      "umwelt"
+    ],
+    "index_relevant": true,
+    "raeumliche_ebene": "gesamtstadt",
+    "zeitliche_ebene": "jaehrlich",
+    "zeitraum": [
+      1979,
+      2022
+    ],
+    "spalten": {
+      "bezirk": null,
+      "jahr": "Jahr",
+      "werte": [
+        "Anzahl"
+      ]
+    },
+    "einheit": "Anzahl",
+    "qualitaet": {
+      "luecken_prozent": 0.0,
+      "zeilen": 62,
+      "bemerkungen": ""
+    }
+  },
+  {
+    "id": "arbeitslosigkeit-gesamt-und-bei-jugendlichen-langzeitarbeitslosigkeit-beschaftig",
+    "datei": "arbeitslosigkeit-gesamt-und-bei-jugendlichen-langzeitarbeitslosigkeit-beschaftigungsquote.csv",
+    "titel": "Arbeitslosigkeit gesamt und bei jugendlichen langzeitarbeitslosigkeit beschaftigungsquote",
+    "thema": "wirtschaft",
+    "dimensionen": [
+      "wirtschaft",
+      "soziales"
+    ],
+    "index_relevant": true,
+    "raeumliche_ebene": "gesamtstadt",
+    "zeitliche_ebene": "jaehrlich",
+    "zeitraum": [
+      2010,
+      2025
+    ],
+    "spalten": {
+      "bezirk": null,
+      "jahr": "Jahr",
+      "werte": []
+    },
+    "einheit": "Prozent",
+    "qualitaet": {
+      "luecken_prozent": 16.2,
+      "zeilen": 16,
+      "bemerkungen": ""
+    }
+  },
+  {
+    "id": "beschaftigungsquoten-von-frauen-und-mannern-auch-in-teilzeit-verdienstabstand-zw",
+    "datei": "beschaftigungsquoten-von-frauen-und-mannern-auch-in-teilzeit-verdienstabstand-zwischen-frauen-un.csv",
+    "titel": "Beschaftigungsquoten von frauen und mannern auch in teilzeit verdienstabstand zwischen frauen un",
+    "thema": "wirtschaft",
+    "dimensionen": [
+      "wirtschaft"
+    ],
+    "index_relevant": true,
+    "raeumliche_ebene": "gesamtstadt",
+    "zeitliche_ebene": "jaehrlich",
+    "zeitraum": [
+      2010,
+      2025
+    ],
+    "spalten": {
+      "bezirk": null,
+      "jahr": "Jahr",
+      "werte": []
+    },
+    "einheit": "Prozent",
+    "qualitaet": {
+      "luecken_prozent": 28.1,
+      "zeilen": 16,
+      "bemerkungen": ""
+    }
+  },
+  {
+    "id": "die-groessten-arbeitgeber-in-stuttgart-seit-2009",
+    "datei": "die_groessten_arbeitgeber_in_stuttgart_seit_2009.csv",
+    "titel": "Die groessten arbeitgeber in stuttgart seit 2009",
+    "thema": "wirtschaft",
+    "dimensionen": [
+      "wirtschaft"
+    ],
+    "index_relevant": true,
+    "raeumliche_ebene": "gesamtstadt",
+    "zeitliche_ebene": "jaehrlich",
+    "zeitraum": [
+      2009,
+      2022
+    ],
+    "spalten": {
+      "bezirk": null,
+      "jahr": null,
+      "werte": [
+        "2009",
+        "2011",
+        "2013",
+        "2015",
+        "2016",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022"
+      ]
+    },
+    "einheit": "Anzahl",
+    "qualitaet": {
+      "luecken_prozent": 13.3,
+      "zeilen": 15,
+      "bemerkungen": ""
+    }
+  },
+  {
+    "id": "einkommensverteilung-anteile-niedrig-mittel-hoch-zeitreihe",
+    "datei": "einkommensverteilung-anteile-niedrig-mittel-hoch-zeitreihe.csv",
+    "titel": "Einkommensverteilung anteile niedrig mittel hoch zeitreihe",
+    "thema": "wirtschaft",
+    "dimensionen": [
+      "wirtschaft",
+      "soziales",
+      "demografie"
+    ],
+    "index_relevant": true,
+    "raeumliche_ebene": "gesamtstadt",
+    "zeitliche_ebene": "jaehrlich",
+    "zeitraum": [
+      2010,
+      2022
+    ],
+    "spalten": {
+      "bezirk": null,
+      "jahr": "Jahr",
+      "werte": []
+    },
+    "einheit": "Prozent",
+    "qualitaet": {
+      "luecken_prozent": 56.2,
+      "zeilen": 16,
+      "bemerkungen": ""
+    }
+  },
+  {
+    "id": "existenzgrundungen-nach-geschlecht-grundungsintensitat",
+    "datei": "existenzgrundungen-nach-geschlecht-grundungsintensitat.csv",
+    "titel": "Existenzgrundungen nach geschlecht grundungsintensitat",
+    "thema": "wirtschaft",
+    "dimensionen": [
+      "wirtschaft"
+    ],
+    "index_relevant": true,
+    "raeumliche_ebene": "gesamtstadt",
+    "zeitliche_ebene": "jaehrlich",
+    "zeitraum": [
+      2010,
+      2023
+    ],
+    "spalten": {
+      "bezirk": null,
+      "jahr": "Jahr",
+      "werte": []
+    },
+    "einheit": "Anzahl",
+    "qualitaet": {
+      "luecken_prozent": 12.5,
+      "zeilen": 16,
+      "bemerkungen": ""
+    }
+  },
+  {
+    "id": "insolvenzen",
+    "datei": "insolvenzen.csv",
+    "titel": "Insolvenzen",
+    "thema": "wirtschaft",
+    "dimensionen": [
+      "wirtschaft"
+    ],
+    "index_relevant": true,
+    "raeumliche_ebene": "gesamtstadt",
+    "zeitliche_ebene": "jaehrlich",
+    "zeitraum": [
+      1980,
+      2022
+    ],
+    "spalten": {
+      "bezirk": null,
+      "jahr": "Jahr",
+      "werte": [
+        "Insolvenz\nverfahren\ninsgesamt",
+        "Davon Erwerbsunternehmen",
+        "Davon Privatinsolvenzen1",
+        "Mangels Masse abgelehnte Verfahren insgesamt",
+        "Davon Erwerbsunternehmen.1",
+        "Voraussichtliche Forderungen insgesamt (in 1000 Euro)",
+        "Erwerbsunternehmen (in 1000 Euro)",
+        "Davon Privatinsolvenzen (in 1000 Euro)"
+      ]
+    },
+    "einheit": "Euro",
+    "qualitaet": {
+      "luecken_prozent": 5.0,
+      "zeilen": 26,
+      "bemerkungen": ""
+    }
+  },
+  {
+    "id": "kommunales-abfallaufkommen-in-stuttgart-seit-1990-nach-abfallarten",
+    "datei": "kommunales-abfallaufkommen-in-stuttgart-seit-1990-nach-abfallarten.csv",
+    "titel": "Kommunales abfallaufkommen in stuttgart seit 1990 nach abfallarten",
+    "thema": "wirtschaft",
+    "dimensionen": [
+      "wirtschaft"
+    ],
+    "index_relevant": true,
+    "raeumliche_ebene": "gesamtstadt",
+    "zeitliche_ebene": "jaehrlich",
+    "zeitraum": [
+      1990,
+      2024
+    ],
+    "spalten": {
+      "bezirk": null,
+      "jahr": "Jahr",
+      "werte": []
+    },
+    "einheit": "Anzahl",
+    "qualitaet": {
+      "luecken_prozent": 0.0,
+      "zeilen": 35,
+      "bemerkungen": ""
+    }
+  },
+  {
+    "id": "steuerpflichtiges-einkommen",
+    "datei": "steuerpflichtiges-einkommen.csv",
+    "titel": "Steuerpflichtiges einkommen",
+    "thema": "wirtschaft",
+    "dimensionen": [
+      "wirtschaft"
+    ],
+    "index_relevant": true,
+    "raeumliche_ebene": "stadtbezirk",
+    "zeitliche_ebene": "jaehrlich",
+    "zeitraum": [
+      2017,
+      2017
+    ],
+    "spalten": {
+      "bezirk": "Stadtbezirk",
+      "jahr": "Jahr",
+      "werte": [
+        "Steuerpflichtige",
+        "davon gemeinsam veranlagt",
+        "positive Einkünfte in Euro",
+        "Gesamtbetrag der Einkünfte in Euro",
+        "Zu  versteuerndes Einkommen in Euro",
+        "Festgesetzte Einkommenssteuer in Euro",
+        "Nettoeinkünfte in Euro",
+        "Veranlagte Personen",
+        "Nettoeinkünfte je veranlagter Person in Euro",
+        "Einkommens-Index (Stuttgart = 100)"
+      ]
+    },
+    "einheit": "Euro",
+    "qualitaet": {
+      "luecken_prozent": 0.0,
+      "zeilen": 24,
+      "bemerkungen": ""
+    }
+  },
+  {
+    "id": "unternehmen-sv-beschaftigte-nach-stadtbezirken",
+    "datei": "unternehmen_sv-beschaftigte-nach-stadtbezirken.csv",
+    "titel": "Unternehmen sv beschaftigte nach stadtbezirken",
+    "thema": "wirtschaft",
+    "dimensionen": [
+      "wirtschaft",
+      "soziales"
+    ],
+    "index_relevant": true,
+    "raeumliche_ebene": "stadtbezirk",
+    "zeitliche_ebene": "jaehrlich",
+    "zeitraum": [
+      2020,
+      2020
+    ],
+    "spalten": {
+      "bezirk": "Stadtbezirk",
+      "jahr": "Jahr",
+      "werte": [
+        "Anzahl der Unternehmen",
+        "Anzahl der sozialversicherungspflichtig Beschäftigten"
+      ]
+    },
+    "einheit": "Anzahl",
+    "qualitaet": {
+      "luecken_prozent": 0.0,
+      "zeilen": 323,
+      "bemerkungen": ""
+    }
+  },
+  {
+    "id": "bauabgange-stadtbezirke-stuttgart-seit-1995",
+    "datei": "bauabgange_stadtbezirke_stuttgart_seit_1995.csv",
+    "titel": "Bauabgange stadtbezirke stuttgart seit 1995",
+    "thema": "wohnen",
+    "dimensionen": [
+      "wohnen",
+      "umwelt"
+    ],
+    "index_relevant": true,
+    "raeumliche_ebene": "stadtbezirk",
+    "zeitliche_ebene": "jaehrlich",
+    "zeitraum": [
+      1995,
+      2024
+    ],
+    "spalten": {
+      "bezirk": "Stadtbezirk",
+      "jahr": "Jahr",
+      "werte": [
+        "Bauabgang Gebäude",
+        "Bauabgang Wohnungen",
+        "Bauabgang Wohnfläche in qm",
+        "Bauabgang Nutzfläche in qm",
+        "Bauabgang ganzer Wohngebäude",
+        "Bauabgang Wohnungen in Wohngebäuden",
+        "Bauabgang Nichtwohngebäude",
+        "Bauabgang Nutzfläche in Nichtwohngebäuden"
+      ]
+    },
+    "einheit": "Anzahl",
+    "qualitaet": {
+      "luecken_prozent": 0.0,
+      "zeilen": 611,
+      "bemerkungen": ""
+    }
+  },
+  {
+    "id": "baufertigstellungen-stuttgart-insgesamt-seit-1987",
+    "datei": "baufertigstellungen_stuttgart_insgesamt_seit_1987.csv",
+    "titel": "Baufertigstellungen stuttgart insgesamt seit 1987",
+    "thema": "wohnen",
+    "dimensionen": [
+      "wohnen",
+      "umwelt"
+    ],
+    "index_relevant": true,
+    "raeumliche_ebene": "gesamtstadt",
+    "zeitliche_ebene": "jaehrlich",
+    "zeitraum": [
+      1987,
+      2021
+    ],
+    "spalten": {
+      "bezirk": null,
+      "jahr": "Jahr",
+      "werte": [
+        "Baumaßnahmen_insgesamt",
+        "Wohnungen_insgesamt",
+        "darin_Wohnräume",
+        "veranschlagte_Baukosten_in_1000_Euro",
+        "Davon_Errichtung_neuer_Gebäude",
+        "Davon_Baumaßnahmen_an bestehenden_Gebäuden"
+      ]
+    },
+    "einheit": "Euro",
+    "qualitaet": {
+      "luecken_prozent": 0.0,
+      "zeilen": 21,
+      "bemerkungen": ""
+    }
+  },
+  {
+    "id": "geforderte-wohnungen-stuttgart-seit-1991",
+    "datei": "geforderte_wohnungen_stuttgart_seit_1991.csv",
+    "titel": "Geforderte wohnungen stuttgart seit 1991",
+    "thema": "wohnen",
+    "dimensionen": [
+      "wohnen",
+      "wirtschaft",
+      "soziales"
+    ],
+    "index_relevant": true,
+    "raeumliche_ebene": "gesamtstadt",
+    "zeitliche_ebene": "jaehrlich",
+    "zeitraum": [
+      1991,
+      2022
+    ],
+    "spalten": {
+      "bezirk": null,
+      "jahr": "Jahr",
+      "werte": [
+        "Geförderte_Wohnungen_insgesamt",
+        "Sozialmietwohnungen",
+        "darunter_Sozialmietwohnungen_aus_dem_Bündnis_für_Wohnen\"_(Ziffer VII)",
+        "Mietwohnungen_für_mittlere_Einkommensbezieher",
+        "Wohnungen_im_selbstgenutzen_Eigentum_(noch gebunden)"
+      ]
+    },
+    "einheit": "Prozent",
+    "qualitaet": {
+      "luecken_prozent": 0.8,
+      "zeilen": 32,
+      "bemerkungen": ""
+    }
+  },
+  {
+    "id": "sozialmietwohnungen-2023-sst",
+    "datei": "sozialmietwohnungen_2023_sst.csv",
+    "titel": "Sozialmietwohnungen 2023 sst",
+    "thema": "wohnen",
+    "dimensionen": [
+      "wohnen",
+      "soziales"
+    ],
+    "index_relevant": true,
+    "raeumliche_ebene": "stadtbezirk",
+    "zeitliche_ebene": "unbekannt",
+    "zeitraum": [
+      null,
+      null
+    ],
+    "spalten": {
+      "bezirk": "Stadtbezirk Nr.",
+      "jahr": null,
+      "werte": [
+        "Stadtteil Nr.",
+        "Anz_Sozialmietwohnungen"
+      ]
+    },
+    "einheit": "Anzahl",
+    "qualitaet": {
+      "luecken_prozent": 4.4,
+      "zeilen": 152,
+      "bemerkungen": ""
+    }
+  },
+  {
+    "id": "tidy-baufertigstellungen-stuttgart-insgesamt-seit-1987",
+    "datei": "tidy_baufertigstellungen_stuttgart_insgesamt_seit_1987.csv",
+    "titel": "Baufertigstellungen stuttgart insgesamt seit 1987",
+    "thema": "wohnen",
+    "dimensionen": [
+      "wohnen",
+      "umwelt"
+    ],
+    "index_relevant": true,
+    "raeumliche_ebene": "gesamtstadt",
+    "zeitliche_ebene": "jaehrlich",
+    "zeitraum": [
+      1987,
+      2022
+    ],
+    "spalten": {
+      "bezirk": null,
+      "jahr": "Jahr",
+      "werte": [
+        "Baumaßnahmen_insgesamt",
+        "Wohnungen_insgesamt",
+        "darin_Wohnräume",
+        "veranschlagte_Baukosten_in_1000_Euro",
+        "Davon_Errichtung_neuer_Gebäude",
+        "Davon_Baumaßnahmen_an bestehenden_Gebäuden"
+      ]
+    },
+    "einheit": "Euro",
+    "qualitaet": {
+      "luecken_prozent": 0.0,
+      "zeilen": 36,
+      "bemerkungen": ""
+    }
+  },
+  {
+    "id": "tidy-baugenehmigungen-stuttgart-stadtbezirke-seit-1995",
+    "datei": "tidy_baugenehmigungen_stuttgart_stadtbezirke_seit_1995.csv",
+    "titel": "Baugenehmigungen stuttgart stadtbezirke seit 1995",
+    "thema": "wohnen",
+    "dimensionen": [
+      "wohnen",
+      "umwelt"
+    ],
+    "index_relevant": true,
+    "raeumliche_ebene": "stadtbezirk",
+    "zeitliche_ebene": "jaehrlich",
+    "zeitraum": [
+      1995,
+      2022
+    ],
+    "spalten": {
+      "bezirk": "Stadtbezirk",
+      "jahr": "Jahr",
+      "werte": [
+        "Baumaßnahmen_insgesamt",
+        "Wohnungen_insgesamt",
+        "darin_Wohnräume",
+        "Wohnfläche_in_m²",
+        "Nutzfläche_in_m²",
+        "veranschlagte_Baukosten_in_1000_Euro",
+        "Davon_Errichtung_neuer_Gebäude",
+        "Davon_Baumaßnahmen_an bestehenden_Gebäuden"
+      ]
+    },
+    "einheit": "Euro",
+    "qualitaet": {
+      "luecken_prozent": 0.0,
+      "zeilen": 644,
+      "bemerkungen": ""
+    }
+  },
+  {
+    "id": "tidy-bestand-wohngebaude-stadtbezirke-seit-1995",
+    "datei": "tidy_bestand_wohngebaude_stadtbezirke_seit_1995.csv",
+    "titel": "Bestand wohngebaude stadtbezirke seit 1995",
+    "thema": "wohnen",
+    "dimensionen": [
+      "wohnen"
+    ],
+    "index_relevant": true,
+    "raeumliche_ebene": "stadtbezirk",
+    "zeitliche_ebene": "unbekannt",
+    "zeitraum": [
+      null,
+      null
+    ],
+    "spalten": {
+      "bezirk": "Stadtbezirk",
+      "jahr": null,
+      "werte": [
+        "Anzahl"
+      ]
+    },
+    "einheit": "Anzahl",
+    "qualitaet": {
+      "luecken_prozent": 2.0,
+      "zeilen": 4508,
+      "bemerkungen": ""
+    }
+  },
+  {
+    "id": "tidy-bestand-wohngebaude-wohnungen-stadtbezirke-seit-1995",
+    "datei": "tidy_bestand_wohngebaude_wohnungen_stadtbezirke_seit_1995.csv",
+    "titel": "Bestand wohngebaude wohnungen stadtbezirke seit 1995",
+    "thema": "wohnen",
+    "dimensionen": [
+      "wohnen",
+      "umwelt"
+    ],
+    "index_relevant": true,
+    "raeumliche_ebene": "stadtbezirk",
+    "zeitliche_ebene": "unbekannt",
+    "zeitraum": [
+      null,
+      null
+    ],
+    "spalten": {
+      "bezirk": "Stadtbezirk",
+      "jahr": null,
+      "werte": [
+        "Wohngebäude",
+        "Wohnungen",
+        "Räume in Wohnungen",
+        "Wohnfläche in Wohnungen"
+      ]
+    },
+    "einheit": "Anzahl",
+    "qualitaet": {
+      "luecken_prozent": 0.0,
+      "zeilen": 644,
+      "bemerkungen": ""
+    }
+  },
+  {
+    "id": "tidy-bestand-wohnungen-stadtbezirke-seit-1995",
+    "datei": "tidy_bestand_wohnungen_stadtbezirke_seit_1995.csv",
+    "titel": "Bestand wohnungen stadtbezirke seit 1995",
+    "thema": "wohnen",
+    "dimensionen": [
+      "wohnen"
+    ],
+    "index_relevant": true,
+    "raeumliche_ebene": "stadtbezirk",
+    "zeitliche_ebene": "unbekannt",
+    "zeitraum": [
+      null,
+      null
+    ],
+    "spalten": {
+      "bezirk": "Stadtbezirk",
+      "jahr": null,
+      "werte": [
+        "Anzahl"
+      ]
+    },
+    "einheit": "Anzahl",
+    "qualitaet": {
+      "luecken_prozent": 0.0,
+      "zeilen": 4508,
+      "bemerkungen": ""
+    }
+  },
+  {
+    "id": "tidy-eigentumerquote-stadtbezirke-seit-2016",
+    "datei": "tidy_eigentumerquote_stadtbezirke_seit_2016.csv",
+    "titel": "Eigentumerquote stadtbezirke seit 2016",
+    "thema": "wohnen",
+    "dimensionen": [
+      "wohnen"
+    ],
+    "index_relevant": true,
+    "raeumliche_ebene": "stadtbezirk",
+    "zeitliche_ebene": "jaehrlich",
+    "zeitraum": [
+      2016,
+      2022
+    ],
+    "spalten": {
+      "bezirk": "Stadtbezirk",
+      "jahr": "Jahr",
+      "werte": []
+    },
+    "einheit": "Prozent",
+    "qualitaet": {
+      "luecken_prozent": 0.0,
+      "zeilen": 92,
+      "bemerkungen": ""
+    }
+  },
+  {
+    "id": "studierende-an-universitaeten-und-hochschulen-in-stuttgart-seit-1950",
+    "datei": "studierende_an_universitaeten_und_hochschulen_in_stuttgart_seit_1950.csv",
+    "titel": "Studierende an universitaeten und hochschulen in stuttgart seit 1950",
+    "thema": "bildung",
+    "dimensionen": [
+      "bildung"
+    ],
+    "index_relevant": false,
+    "raeumliche_ebene": "gesamtstadt",
+    "zeitliche_ebene": "unbekannt",
+    "zeitraum": [
+      null,
+      null
+    ],
+    "spalten": {
+      "bezirk": null,
+      "jahr": null,
+      "werte": [
+        "Studierende insgesamt",
+        "davon an Universitäten",
+        "davon an Private wiss. Hochschulen",
+        "davon an Kunsthochschulen",
+        "davon an HAW staatlich",
+        "davon an HAW nicht staatlich"
+      ]
+    },
+    "einheit": "Anzahl",
+    "qualitaet": {
+      "luecken_prozent": 28.8,
+      "zeilen": 72,
+      "bemerkungen": ""
+    }
+  },
+  {
+    "id": "wilhelma-zoologisch-botanischer-garten-stuttgart-seit-1980",
+    "datei": "wilhelma-zoologisch-botanischer-garten-stuttgart-seit-1980.csv",
+    "titel": "Wilhelma zoologisch botanischer garten stuttgart seit 1980",
+    "thema": "kultur_freizeit",
+    "dimensionen": [
+      "kultur_freizeit"
+    ],
+    "index_relevant": false,
+    "raeumliche_ebene": "gesamtstadt",
+    "zeitliche_ebene": "jaehrlich",
+    "zeitraum": [
+      1980,
+      2024
+    ],
+    "spalten": {
+      "bezirk": null,
+      "jahr": "Jahr",
+      "werte": [
+        "Besucher insgesamt",
+        "Verkaufte Karten insgesamt",
+        "für Erwachsene",
+        "ermäßigte Karten",
+        "für Erwachsene.1",
+        "ermäßigte Karten.1",
+        "Familienkarten",
+        "Dauerkarten",
+        "Freikarten",
+        "Eingelöste Gutscheine"
+      ]
+    },
+    "einheit": "Anzahl",
+    "qualitaet": {
+      "luecken_prozent": 11.3,
+      "zeilen": 45,
+      "bemerkungen": ""
+    }
+  },
+  {
+    "id": "flugzeugbewegungen-am-flughafen-stuttgart-seit-1980",
+    "datei": "flugzeugbewegungen-am-flughafen-stuttgart-seit-1980.csv",
+    "titel": "Flugzeugbewegungen am flughafen stuttgart seit 1980",
+    "thema": "mobilitaet",
+    "dimensionen": [
+      "mobilitaet"
+    ],
+    "index_relevant": false,
+    "raeumliche_ebene": "gesamtstadt",
+    "zeitliche_ebene": "jaehrlich",
+    "zeitraum": [
+      1980,
+      2023
+    ],
+    "spalten": {
+      "bezirk": null,
+      "jahr": "Jahr",
+      "werte": [
+        "Insgesamt",
+        "Linienverkehr",
+        "Pauschalreiseflugverkehr",
+        "Tramp- und Anforderungsverkehr",
+        "Bedarfsplan-, Taxiverkehr",
+        "sonstiger gewerblicher Verkehr",
+        "nicht gewerblicher Verkehr"
+      ]
+    },
+    "einheit": "Anzahl",
+    "qualitaet": {
+      "luecken_prozent": 0.0,
+      "zeilen": 44,
+      "bemerkungen": ""
+    }
+  },
+  {
+    "id": "luftverkehr-stuttgart-1980-bis-2024",
+    "datei": "luftverkehr_stuttgart_1980_bis_2024.csv",
+    "titel": "Luftverkehr stuttgart 1980 bis 2024",
+    "thema": "mobilitaet",
+    "dimensionen": [
+      "mobilitaet",
+      "umwelt"
+    ],
+    "index_relevant": false,
+    "raeumliche_ebene": "gesamtstadt",
+    "zeitliche_ebene": "jaehrlich",
+    "zeitraum": [
+      1980,
+      2024
+    ],
+    "spalten": {
+      "bezirk": null,
+      "jahr": "Jahr",
+      "werte": [
+        "Anzahl"
+      ]
+    },
+    "einheit": "Anzahl",
+    "qualitaet": {
+      "luecken_prozent": 0.0,
+      "zeilen": 805,
+      "bemerkungen": ""
+    }
+  },
+  {
+    "id": "komunis-9902-v1-kriminalitat-ausgewahlte-delikte-seit-2008",
+    "datei": "komunis-9902-v1-kriminalitat__ausgewahlte_delikte_seit_2008.csv",
+    "titel": "Kriminalitat  ausgewahlte delikte seit 2008",
+    "thema": "sicherheit",
+    "dimensionen": [
+      "sicherheit",
+      "wohnen",
+      "soziales"
+    ],
+    "index_relevant": false,
+    "raeumliche_ebene": "stadtbezirk",
+    "zeitliche_ebene": "jaehrlich",
+    "zeitraum": [
+      2008,
+      2022
+    ],
+    "spalten": {
+      "bezirk": "Stadtbezirk Nr.",
+      "jahr": "Jahr",
+      "werte": [
+        "Monat",
+        "Straftaten insgesamt",
+        "Straftaten darunter einfacher Diebstahl",
+        "Straftaten darunter schwerer Diebstahl",
+        "Straftaten darunter Betrugs- und Fälschungsdelikte",
+        "Straftaten darunter schwere, gefährliche Körperverletzung",
+        "Straftaten darunter Sittlichkeitsdelikte",
+        "Straftaten darunter Raub, räuberische Erpressung",
+        "Straftaten darunter Wohnungseinbrüche",
+        "Straftaten darunter Leistungserschleichung",
+        "Tatverdächtige insgesamt",
+        "Tatverdächtige darunter Kinder u. 14 J.",
+        "Tatverdächtige darunter Jugendliche 14-u. 18 J.",
+        "Tatverdächtige darunter Heranwachsende 18- u. 21 J."
+      ]
+    },
+    "einheit": "Anzahl",
+    "qualitaet": {
+      "luecken_prozent": 0.0,
+      "zeilen": 360,
+      "bemerkungen": ""
+    }
+  },
+  {
+    "id": "abfallaufkommen-stuttgart",
+    "datei": "abfallaufkommen_stuttgart.csv",
+    "titel": "Abfallaufkommen stuttgart",
+    "thema": "sonstig",
+    "dimensionen": [
+      "sonstig"
+    ],
+    "index_relevant": false,
+    "raeumliche_ebene": "gesamtstadt",
+    "zeitliche_ebene": "jaehrlich",
+    "zeitraum": [
+      1990,
+      2024
+    ],
+    "spalten": {
+      "bezirk": null,
+      "jahr": "Jahr",
+      "werte": [
+        "Anzahl"
+      ]
+    },
+    "einheit": "Anzahl",
+    "qualitaet": {
+      "luecken_prozent": 0.0,
+      "zeilen": 570,
+      "bemerkungen": ""
+    }
+  },
+  {
+    "id": "arbeitslos-gemeldete-nach-stadtbezirken-seit-2005",
+    "datei": "arbeitslos_gemeldete_nach_stadtbezirken_seit_2005.csv",
+    "titel": "Arbeitslos gemeldete nach stadtbezirken seit 2005",
+    "thema": "sonstig",
+    "dimensionen": [
+      "sonstig"
+    ],
+    "index_relevant": false,
+    "raeumliche_ebene": "stadtbezirk",
+    "zeitliche_ebene": "jaehrlich",
+    "zeitraum": [
+      2005,
+      2022
+    ],
+    "spalten": {
+      "bezirk": "Nummer des Stadtbezirks",
+      "jahr": "Jahr",
+      "werte": [
+        "arbeitslos Gemeldete insgesamt",
+        "davon unter 25 Jahre",
+        "davon über 55 Jahre"
+      ]
+    },
+    "einheit": "Prozent",
+    "qualitaet": {
+      "luecken_prozent": 0.6,
+      "zeilen": 432,
+      "bemerkungen": ""
+    }
+  },
+  {
+    "id": "ausgewahlte-messen-und-ausstellungen-in-stuttgart-ab-1980",
+    "datei": "ausgewahlte_messen_und_ausstellungen_in_stuttgart_ab_1980.csv",
+    "titel": "Ausgewahlte messen und ausstellungen in stuttgart ab 1980",
+    "thema": "sonstig",
+    "dimensionen": [
+      "sonstig"
+    ],
+    "index_relevant": false,
+    "raeumliche_ebene": "gesamtstadt",
+    "zeitliche_ebene": "jaehrlich",
+    "zeitraum": [
+      1980,
+      2024
+    ],
+    "spalten": {
+      "bezirk": null,
+      "jahr": "Jahr",
+      "werte": [
+        "Wert"
+      ]
+    },
+    "einheit": "Anzahl",
+    "qualitaet": {
+      "luecken_prozent": 0.5,
+      "zeilen": 8723,
+      "bemerkungen": ""
+    }
+  },
+  {
+    "id": "besucher-in-den-oeffentlichen-schwimmbaedern-stuttgarts-seit-1980",
+    "datei": "besucher_in_den_oeffentlichen_schwimmbaedern_stuttgarts_seit_1980.csv",
+    "titel": "Besucher in den oeffentlichen schwimmbaedern stuttgarts seit 1980",
+    "thema": "sonstig",
+    "dimensionen": [
+      "sonstig"
+    ],
+    "index_relevant": false,
+    "raeumliche_ebene": "gesamtstadt",
+    "zeitliche_ebene": "jaehrlich",
+    "zeitraum": [
+      1980,
+      2022
+    ],
+    "spalten": {
+      "bezirk": null,
+      "jahr": "Jahr",
+      "werte": [
+        "Besucher Hallenbäder",
+        "Besucher Freibäder",
+        "Besucher Mineralbäder"
+      ]
+    },
+    "einheit": "Anzahl",
+    "qualitaet": {
+      "luecken_prozent": 0.0,
+      "zeilen": 43,
+      "bemerkungen": ""
+    }
+  },
+  {
+    "id": "ergebnisse-bundestagswahlen-seit-1949",
+    "datei": "ergebnisse_bundestagswahlen_seit_1949.csv",
+    "titel": "Ergebnisse bundestagswahlen seit 1949",
+    "thema": "sonstig",
+    "dimensionen": [
+      "sonstig"
+    ],
+    "index_relevant": false,
+    "raeumliche_ebene": "gesamtstadt",
+    "zeitliche_ebene": "unbekannt",
+    "zeitraum": [
+      null,
+      null
+    ],
+    "spalten": {
+      "bezirk": null,
+      "jahr": null,
+      "werte": [
+        "Wahlberechtigte (Anzahl)",
+        "Gültige Zweitstimmen",
+        "GRÜNE Zweitstimmenanteil in Prozent",
+        "DIE LINKE Zweitstimmenanteil in Prozent",
+        "AfD Zweitstimmenanteil in Prozent"
+      ]
+    },
+    "einheit": "Prozent",
+    "qualitaet": {
+      "luecken_prozent": 0.0,
+      "zeilen": 20,
+      "bemerkungen": ""
+    }
+  },
+  {
+    "id": "ergebnisse-der-landtagswahlen-in-stuttgart-1952-bis-2016",
+    "datei": "ergebnisse_der_landtagswahlen_in_stuttgart_1952_bis_2016.csv",
+    "titel": "Ergebnisse der landtagswahlen in stuttgart 1952 bis 2016",
+    "thema": "sonstig",
+    "dimensionen": [
+      "sonstig"
+    ],
+    "index_relevant": false,
+    "raeumliche_ebene": "gesamtstadt",
+    "zeitliche_ebene": "unbekannt",
+    "zeitraum": [
+      null,
+      null
+    ],
+    "spalten": {
+      "bezirk": null,
+      "jahr": null,
+      "werte": [
+        "Anzahl Wahlberechtigte",
+        "AnzahlgültigeStimmen",
+        "GRÜNE Stimmenanteil in Prozent",
+        "AfD Stimmenanteil in Prozent",
+        "DIE LINKE Stimmenanteil in Prozent"
+      ]
+    },
+    "einheit": "Prozent",
+    "qualitaet": {
+      "luecken_prozent": 0.0,
+      "zeilen": 16,
+      "bemerkungen": ""
+    }
+  },
+  {
+    "id": "ergebnisse-oberburgermeisterwahlen-seit-1948",
+    "datei": "ergebnisse_oberburgermeisterwahlen_seit_1948.csv",
+    "titel": "Ergebnisse oberburgermeisterwahlen seit 1948",
+    "thema": "sonstig",
+    "dimensionen": [
+      "sonstig"
+    ],
+    "index_relevant": false,
+    "raeumliche_ebene": "gesamtstadt",
+    "zeitliche_ebene": "unbekannt",
+    "zeitraum": [
+      null,
+      null
+    ],
+    "spalten": {
+      "bezirk": null,
+      "jahr": null,
+      "werte": [
+        "Anzahl Wahlberechtigte"
+      ]
+    },
+    "einheit": "Prozent",
+    "qualitaet": {
+      "luecken_prozent": 12.5,
+      "zeilen": 16,
+      "bemerkungen": ""
+    }
+  },
+  {
+    "id": "flugziele-stuttgart-2017-bis-2024",
+    "datei": "flugziele_stuttgart_2017_bis_2024.csv",
+    "titel": "Flugziele stuttgart 2017 bis 2024",
+    "thema": "sonstig",
+    "dimensionen": [
+      "sonstig"
+    ],
+    "index_relevant": false,
+    "raeumliche_ebene": "gesamtstadt",
+    "zeitliche_ebene": "jaehrlich",
+    "zeitraum": [
+      2017,
+      2024
+    ],
+    "spalten": {
+      "bezirk": null,
+      "jahr": "Jahr",
+      "werte": [
+        "Anzahl"
+      ]
+    },
+    "einheit": "Anzahl",
+    "qualitaet": {
+      "luecken_prozent": 0.0,
+      "zeilen": 717,
+      "bemerkungen": ""
+    }
+  },
+  {
+    "id": "frauen-im-stuttgarter-gemeinderat-und-in-fuhrungspositionen-bei-der-lhs",
+    "datei": "frauen-im-stuttgarter-gemeinderat-und-in-fuhrungspositionen-bei-der-lhs.csv",
+    "titel": "Frauen im stuttgarter gemeinderat und in fuhrungspositionen bei der lhs",
+    "thema": "sonstig",
+    "dimensionen": [
+      "sonstig"
+    ],
+    "index_relevant": false,
+    "raeumliche_ebene": "gesamtstadt",
+    "zeitliche_ebene": "jaehrlich",
+    "zeitraum": [
+      2010,
+      2025
+    ],
+    "spalten": {
+      "bezirk": null,
+      "jahr": "Jahr",
+      "werte": []
+    },
+    "einheit": "Anzahl",
+    "qualitaet": {
+      "luecken_prozent": 48.4,
+      "zeilen": 16,
+      "bemerkungen": ""
+    }
+  },
+  {
+    "id": "gaesteankuenfte-in-stuttgarter-beherbergungsbetrieben-seit-1980-nach-ausgewaehlt",
+    "datei": "gaesteankuenfte_in-stuttgarter_beherbergungsbetrieben_seit_1980_nach_ausgewaehlten_herkunftslaen.csv",
+    "titel": "Gaesteankuenfte in stuttgarter beherbergungsbetrieben seit 1980 nach ausgewaehlten herkunftslaen",
+    "thema": "sonstig",
+    "dimensionen": [
+      "sonstig"
+    ],
+    "index_relevant": false,
+    "raeumliche_ebene": "gesamtstadt",
+    "zeitliche_ebene": "jaehrlich",
+    "zeitraum": [
+      1980,
+      2022
+    ],
+    "spalten": {
+      "bezirk": null,
+      "jahr": null,
+      "werte": [
+        "1980",
+        "1981",
+        "1982",
+        "1983",
+        "1984",
+        "1985",
+        "1986",
+        "1987",
+        "1988",
+        "1989",
+        "1990",
+        "1991",
+        "1992",
+        "1993",
+        "1994",
+        "1995",
+        "1996",
+        "1997",
+        "1998",
+        "1999",
+        "2000",
+        "2001",
+        "2002",
+        "2003",
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022"
+      ]
+    },
+    "einheit": "Anzahl",
+    "qualitaet": {
+      "luecken_prozent": 17.7,
+      "zeilen": 62,
+      "bemerkungen": ""
+    }
+  },
+  {
+    "id": "grosste-probleme-in-stuttgart",
+    "datei": "grosste-probleme-in-stuttgart.csv",
+    "titel": "Grosste probleme in stuttgart",
+    "thema": "sonstig",
+    "dimensionen": [
+      "sonstig"
+    ],
+    "index_relevant": false,
+    "raeumliche_ebene": "gesamtstadt",
+    "zeitliche_ebene": "jaehrlich",
+    "zeitraum": [
+      2021,
+      2021
+    ],
+    "spalten": {
+      "bezirk": null,
+      "jahr": "Jahr",
+      "werte": [
+        "Kommunalbarometer"
+      ]
+    },
+    "einheit": "Anzahl",
+    "qualitaet": {
+      "luecken_prozent": 0.0,
+      "zeilen": 32,
+      "bemerkungen": ""
+    }
+  },
+  {
+    "id": "hafen-stuttgart-1973-bis-2024",
+    "datei": "hafen_stuttgart_1973_bis_2024.csv",
+    "titel": "Hafen stuttgart 1973 bis 2024",
+    "thema": "sonstig",
+    "dimensionen": [
+      "sonstig"
+    ],
+    "index_relevant": false,
+    "raeumliche_ebene": "gesamtstadt",
+    "zeitliche_ebene": "jaehrlich",
+    "zeitraum": [
+      1973,
+      2024
+    ],
+    "spalten": {
+      "bezirk": null,
+      "jahr": "Jahr",
+      "werte": [
+        "Anzahl"
+      ]
+    },
+    "einheit": "Anzahl",
+    "qualitaet": {
+      "luecken_prozent": 0.0,
+      "zeilen": 668,
+      "bemerkungen": ""
+    }
+  },
+  {
+    "id": "hlu-gsiae-stuttgart",
+    "datei": "hlu_gsiae_stuttgart.csv",
+    "titel": "Hlu gsiae stuttgart",
+    "thema": "sonstig",
+    "dimensionen": [
+      "sonstig"
+    ],
+    "index_relevant": false,
+    "raeumliche_ebene": "gesamtstadt",
+    "zeitliche_ebene": "jaehrlich",
+    "zeitraum": [
+      2011,
+      2024
+    ],
+    "spalten": {
+      "bezirk": null,
+      "jahr": "Jahr",
+      "werte": [
+        "Monat",
+        "Wert"
+      ]
+    },
+    "einheit": "Anzahl",
+    "qualitaet": {
+      "luecken_prozent": 0.0,
+      "zeilen": 5087,
+      "bemerkungen": ""
+    }
+  },
+  {
+    "id": "innovationsindex-forschung-und-entwicklung-in-der-wirtschaft",
+    "datei": "innovationsindex-forschung-und-entwicklung-in-der-wirtschaft.csv",
+    "titel": "Innovationsindex forschung und entwicklung in der wirtschaft",
+    "thema": "sonstig",
+    "dimensionen": [
+      "sonstig"
+    ],
+    "index_relevant": false,
+    "raeumliche_ebene": "gesamtstadt",
+    "zeitliche_ebene": "jaehrlich",
+    "zeitraum": [
+      2010,
+      2022
+    ],
+    "spalten": {
+      "bezirk": null,
+      "jahr": "Jahr",
+      "werte": []
+    },
+    "einheit": "Anzahl",
+    "qualitaet": {
+      "luecken_prozent": 53.1,
+      "zeilen": 16,
+      "bemerkungen": ""
+    }
+  },
+  {
+    "id": "jahresfahrleistung-1985-bis-2023",
+    "datei": "jahresfahrleistung_1985_bis_2023.csv",
+    "titel": "Jahresfahrleistung 1985 bis 2023",
+    "thema": "sonstig",
+    "dimensionen": [
+      "sonstig"
+    ],
+    "index_relevant": false,
+    "raeumliche_ebene": "gesamtstadt",
+    "zeitliche_ebene": "jaehrlich",
+    "zeitraum": [
+      1985,
+      2023
+    ],
+    "spalten": {
+      "bezirk": null,
+      "jahr": "Jahr",
+      "werte": []
+    },
+    "einheit": "Anzahl",
+    "qualitaet": {
+      "luecken_prozent": 0.0,
+      "zeilen": 372,
+      "bemerkungen": ""
+    }
+  },
+  {
+    "id": "kommunales-abfallaufkommen-in-stuttgart-seit-1990-nach-art-der-entsorgung",
+    "datei": "kommunales-abfallaufkommen-in-stuttgart-seit-1990-nach-art-der-entsorgung.csv",
+    "titel": "Kommunales abfallaufkommen in stuttgart seit 1990 nach art der entsorgung",
+    "thema": "sonstig",
+    "dimensionen": [
+      "sonstig"
+    ],
+    "index_relevant": false,
+    "raeumliche_ebene": "gesamtstadt",
+    "zeitliche_ebene": "jaehrlich",
+    "zeitraum": [
+      1999,
+      2024
+    ],
+    "spalten": {
+      "bezirk": null,
+      "jahr": "Jahr",
+      "werte": [
+        "Ablagerung auf Deponien der Deponieklasse I, 0 und -0,5 in 1000 t"
+      ]
+    },
+    "einheit": "Anzahl",
+    "qualitaet": {
+      "luecken_prozent": 3.7,
+      "zeilen": 27,
+      "bemerkungen": ""
+    }
+  },
+  {
+    "id": "regionalvergleich-mobilitat-1995-2023",
+    "datei": "regionalvergleich_mobilitat_1995-2023.csv",
+    "titel": "Regionalvergleich mobilitat 1995 2023",
+    "thema": "sonstig",
+    "dimensionen": [
+      "sonstig"
+    ],
+    "index_relevant": false,
+    "raeumliche_ebene": "gesamtstadt",
+    "zeitliche_ebene": "jaehrlich",
+    "zeitraum": [
+      1995,
+      2023
+    ],
+    "spalten": {
+      "bezirk": null,
+      "jahr": "Jahr",
+      "werte": [
+        "Anzahl"
+      ]
+    },
+    "einheit": "Anzahl",
+    "qualitaet": {
+      "luecken_prozent": 0.0,
+      "zeilen": 6286,
+      "bemerkungen": ""
+    }
+  },
+  {
+    "id": "sitzverteilung-gemeinderat-seit-1946",
+    "datei": "sitzverteilung_gemeinderat_seit_1946.csv",
+    "titel": "Sitzverteilung gemeinderat seit 1946",
+    "thema": "sonstig",
+    "dimensionen": [
+      "sonstig"
+    ],
+    "index_relevant": false,
+    "raeumliche_ebene": "gesamtstadt",
+    "zeitliche_ebene": "unbekannt",
+    "zeitraum": [
+      null,
+      null
+    ],
+    "spalten": {
+      "bezirk": null,
+      "jahr": null,
+      "werte": [
+        "CDU",
+        "GRÜNE",
+        "SPD",
+        "FDP",
+        "FW",
+        "SÖS",
+        "LINKE",
+        "REP",
+        "KPD",
+        "BHE",
+        "PFB",
+        "NPD",
+        "Sonstige"
+      ]
+    },
+    "einheit": "Anzahl",
+    "qualitaet": {
+      "luecken_prozent": 0.0,
+      "zeilen": 20,
+      "bemerkungen": ""
+    }
+  },
+  {
+    "id": "sitzverteilung-in-den-stuttgarter-bezirksbeiraeten-2019",
+    "datei": "sitzverteilung_in_den_stuttgarter_bezirksbeiraeten_2019.csv",
+    "titel": "Sitzverteilung in den stuttgarter bezirksbeiraeten 2019",
+    "thema": "sonstig",
+    "dimensionen": [
+      "sonstig"
+    ],
+    "index_relevant": false,
+    "raeumliche_ebene": "stadtbezirk",
+    "zeitliche_ebene": "unbekannt",
+    "zeitraum": [
+      null,
+      null
+    ],
+    "spalten": {
+      "bezirk": "Stadtbezirk",
+      "jahr": null,
+      "werte": [
+        "CDU",
+        "GRÜNE",
+        "SPD",
+        "Freie Wähler",
+        "FDP",
+        "SÖS",
+        "AfD",
+        "DIE LINKE",
+        "PIRATEN",
+        "Stadtisten",
+        "Junge Liste"
+      ]
+    },
+    "einheit": "Anzahl",
+    "qualitaet": {
+      "luecken_prozent": 0.0,
+      "zeilen": 23,
+      "bemerkungen": ""
+    }
+  },
+  {
+    "id": "strassennetz-stuttgart-1980-bis-2024",
+    "datei": "strassennetz_stuttgart_1980_bis_2024.csv",
+    "titel": "Strassennetz stuttgart 1980 bis 2024",
+    "thema": "sonstig",
+    "dimensionen": [
+      "sonstig"
+    ],
+    "index_relevant": false,
+    "raeumliche_ebene": "gesamtstadt",
+    "zeitliche_ebene": "jaehrlich",
+    "zeitraum": [
+      1980,
+      2024
+    ],
+    "spalten": {
+      "bezirk": null,
+      "jahr": "Jahr",
+      "werte": []
+    },
+    "einheit": "Anzahl",
+    "qualitaet": {
+      "luecken_prozent": 0.0,
+      "zeilen": 299,
+      "bemerkungen": ""
+    }
+  },
+  {
+    "id": "tourismus-im-grossstadt-und-regionalvergleich",
+    "datei": "tourismus_im_grossstadt-_und_regionalvergleich-.csv",
+    "titel": "Tourismus im grossstadt  und regionalvergleich",
+    "thema": "sonstig",
+    "dimensionen": [
+      "sonstig"
+    ],
+    "index_relevant": false,
+    "raeumliche_ebene": "gesamtstadt",
+    "zeitliche_ebene": "jaehrlich",
+    "zeitraum": [
+      1989,
+      2024
+    ],
+    "spalten": {
+      "bezirk": null,
+      "jahr": "Jahr",
+      "werte": [
+        "Anzahl"
+      ]
+    },
+    "einheit": "Anzahl",
+    "qualitaet": {
+      "luecken_prozent": 0.0,
+      "zeilen": 5177,
+      "bemerkungen": ""
+    }
+  },
+  {
+    "id": "uebernachtungen-in-stuttgarter-beherbergungsbetrieben-seit-1980-nach-ausgewaehlt",
+    "datei": "uebernachtungen_in-stuttgarter_beherbergungsbetrieben_seit_1980_nach_ausgewaehlten_herkunftslaen.csv",
+    "titel": "Uebernachtungen in stuttgarter beherbergungsbetrieben seit 1980 nach ausgewaehlten herkunftslaen",
+    "thema": "sonstig",
+    "dimensionen": [
+      "sonstig"
+    ],
+    "index_relevant": false,
+    "raeumliche_ebene": "gesamtstadt",
+    "zeitliche_ebene": "jaehrlich",
+    "zeitraum": [
+      1980,
+      2022
+    ],
+    "spalten": {
+      "bezirk": null,
+      "jahr": null,
+      "werte": [
+        "1980",
+        "1981",
+        "1982",
+        "1983",
+        "1984",
+        "1985",
+        "1986",
+        "1987",
+        "1988",
+        "1989",
+        "1990",
+        "1991",
+        "1992",
+        "1993",
+        "1994",
+        "1995",
+        "1996",
+        "1997",
+        "1998",
+        "1999",
+        "2000",
+        "2001",
+        "2002",
+        "2003",
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022"
+      ]
+    },
+    "einheit": "Anzahl",
+    "qualitaet": {
+      "luecken_prozent": 19.7,
+      "zeilen": 56,
+      "bemerkungen": ""
+    }
+  },
+  {
+    "id": "wahlergebnisse-sitzverteilungen-1946-bis-2025",
+    "datei": "wahlergebnisse_sitzverteilungen_1946_bis_2025.csv",
+    "titel": "Wahlergebnisse sitzverteilungen 1946 bis 2025",
+    "thema": "sonstig",
+    "dimensionen": [
+      "sonstig"
+    ],
+    "index_relevant": false,
+    "raeumliche_ebene": "gesamtstadt",
+    "zeitliche_ebene": "unbekannt",
+    "zeitraum": [
+      null,
+      null
+    ],
+    "spalten": {
+      "bezirk": null,
+      "jahr": null,
+      "werte": [
+        "Wert"
+      ]
+    },
+    "einheit": "Anzahl",
+    "qualitaet": {
+      "luecken_prozent": 1.9,
+      "zeilen": 2584,
+      "bemerkungen": ""
+    }
+  },
+  {
+    "id": "wetter-stuttgart-seit-1980",
+    "datei": "wetter_stuttgart_seit_1980.csv",
+    "titel": "Wetter stuttgart seit 1980",
+    "thema": "sonstig",
+    "dimensionen": [
+      "sonstig"
+    ],
+    "index_relevant": false,
+    "raeumliche_ebene": "gesamtstadt",
+    "zeitliche_ebene": "jaehrlich",
+    "zeitraum": [
+      1980,
+      2025
+    ],
+    "spalten": {
+      "bezirk": null,
+      "jahr": "Jahr",
+      "werte": [
+        "Wert"
+      ]
+    },
+    "einheit": "Anzahl",
+    "qualitaet": {
+      "luecken_prozent": 0.0,
+      "zeilen": 6267,
+      "bemerkungen": ""
+    }
+  },
+  {
+    "id": "zufriedenheit-mit-lebensbereichen",
+    "datei": "zufriedenheit-mit-lebensbereichen.csv",
+    "titel": "Zufriedenheit mit lebensbereichen",
+    "thema": "sonstig",
+    "dimensionen": [
+      "sonstig"
+    ],
+    "index_relevant": false,
+    "raeumliche_ebene": "gesamtstadt",
+    "zeitliche_ebene": "jaehrlich",
+    "zeitraum": [
+      2021,
+      2021
+    ],
+    "spalten": {
+      "bezirk": null,
+      "jahr": "Jahr",
+      "werte": [
+        "Kommunalbarometer"
+      ]
+    },
+    "einheit": "Anzahl",
+    "qualitaet": {
+      "luecken_prozent": 0.0,
+      "zeilen": 29,
+      "bemerkungen": ""
+    }
+  },
+  {
+    "id": "beherbergungsgewerbe-seit-1990",
+    "datei": "beherbergungsgewerbe_seit_1990.csv",
+    "titel": "Beherbergungsgewerbe seit 1990",
+    "thema": "wirtschaft",
+    "dimensionen": [
+      "wirtschaft"
+    ],
+    "index_relevant": false,
+    "raeumliche_ebene": "gesamtstadt",
+    "zeitliche_ebene": "jaehrlich",
+    "zeitraum": [
+      1990,
+      2022
+    ],
+    "spalten": {
+      "bezirk": null,
+      "jahr": "Jahr",
+      "werte": [
+        "Angebotene Schlafgelegenheiten im Juli",
+        "Gästeankünfte insgesamt",
+        "darunter von Auslandsgästen",
+        "Übernachtungen insgesamt",
+        "darunter von Auslandsgästen.1"
+      ]
+    },
+    "einheit": "Prozent",
+    "qualitaet": {
+      "luecken_prozent": 2.3,
+      "zeilen": 33,
+      "bemerkungen": ""
+    }
+  }
+]

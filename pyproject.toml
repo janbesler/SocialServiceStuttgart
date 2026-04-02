@@ -1,0 +1,46 @@
+[project]
+name = "stuttgart-sozialraum"
+version = "0.1.0"
+description = "Stuttgart Aufwachsindex – Sozialraum-Dashboard für kommunale Entscheidungsträger"
+requires-python = ">=3.11"
+dependencies = [
+    "pandas>=2.0",
+    "geopandas>=0.14",
+    "shapely>=2.0",
+    "pyproj",
+    "requests",
+    "pyarrow",
+    "scipy",
+    "scikit-learn",
+    "rtree",
+    "networkx",
+    "PuLP",
+    "folium",
+    "pyogrio",
+]
+
+[project.optional-dependencies]
+dev = [
+    "ruff",
+    "pytest",
+    "pytest-asyncio",
+]
+
+[tool.ruff]
+target-version = "py311"
+line-length = 100
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "UP", "B", "SIM"]
+ignore = []
+
+[tool.ruff.format]
+quote-style = "double"
+indent-style = "space"
+
+[tool.mypy]
+python_version = "3.11"
+strict = true
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

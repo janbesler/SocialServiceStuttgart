@@ -1,0 +1,26 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(conda create:*)",
+      "Bash(conda run:*)",
+      "Bash(ls -lh /home/jan/Documents/Fram/SocialServiceStuttgart/data/osm/*.geojson)",
+      "Bash(python3:*)",
+      "Bash(npm install:*)",
+      "Bash(node scripts/copy-data.js)",
+      "Bash(npm run:*)",
+      "Bash(npx vite:*)",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\" http://localhost:5173/)",
+      "Bash(kill %1)",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\" http://localhost:5174/data/aufwachsindex.geojson)",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\" http://localhost:5173/data/aufwachsindex.geojson)",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\" http://localhost:5173/data/bezirke.geojson)",
+      "Bash(pkill -f \"vite --port 5173\")",
+      "Bash(node:*)",
+      "Bash(npm uninstall:*)",
+      "Bash(grep:*)",
+      "Bash([ ! -f /home/jan/Documents/Fram/SocialServiceStuttgart/data/disaggregated/temporal/temporal_meta.json ])",
+      "Bash(ls:*)",
+      "Bash(python -c ':*)"
+    ]
+  }
+}

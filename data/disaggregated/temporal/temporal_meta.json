@@ -1,0 +1,31 @@
+{
+  "generated_at": "2026-04-02T07:51:48.291647+00:00",
+  "indicators": [
+    "arztdichte",
+    "binnenumzuege",
+    "eigentuemer_quote",
+    "einkommen_index",
+    "einwohner_kinder",
+    "energie_verbrauch",
+    "jugend_arbeitslosigkeit",
+    "kriminalitaet",
+    "laermbelastung",
+    "luftqualitaet",
+    "pkw_bestand",
+    "schulen_bezirk",
+    "sgbii_kinder",
+    "sozialmietwohnungen",
+    "ssb_fahrgaeste",
+    "sv_beschaeftigung",
+    "unfaelle",
+    "wohnungsbestand"
+  ],
+  "date_range": {
+    "start": "2013-01",
+    "end": "2024-12"
+  },
+  "method": "cubic_spline_interpolation_with_seasonal_adjustment",
+  "years_back": 5,
+  "konfidenz": "geschaetzt_niedrig",
+  "n_indicators": 18
+}
